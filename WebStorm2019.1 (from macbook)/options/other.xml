@@ -1,0 +1,47 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="10.16.3" last-modified="1567634469000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/12.3.1/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/12.3.0/bin/node" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value=".SFNSText-Regular" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="186-233-182-255,,,0-208-0-255,,,186-0-20-255,,,0-133-0-255,,,84-84-84-255,,,129-250-172-255,,,140-172-250-255,,,140-172-250-146,,,181-250-156-145,,,181-250-156-97" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6100342" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.6175637" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="INSPECTION_FILTER_HISTORY" value="javas&#10;esli" />
+    <property name="KEYMAP" value="tab&#10;fold&#10;indent&#10;paste&#10;replace" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="change tab&#10;text files&#10;file types&#10;stylus&#10;tab size" />
+    <property name="SplitFileEditor.Proportion" value="0.5555556" />
+    <property name="TrendingPluginsSearchHistory" value="upsource&#10;code&#10;codegl&#10;react" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="evlsprt.191" value="16ba4c04b8c" />
+    <property name="evlsprt2.191" value="16b714111cf" />
+    <property name="evlsprt3.191" value="10" />
+    <property name="file.gist.reindex.count" value="210414" />
+    <property name="fileTypeChangedCounter" value="26" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="" />
+    <property name="selected.color.option.type" value="MATCHED_BRACE_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Punctuation" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.4.1" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.24916944" />
+    <property name="vcs.log.changes.splitter.proportion" value="1.0" />
+    <property name="vcs.log.diff.splitter.proportion" value="0.46567" />
+  </component>
+</application>

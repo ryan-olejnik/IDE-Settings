@@ -1,0 +1,500 @@
+git pull
+git branch --set-upstream-to=origin/master refactoring
+git pull
+cd .ssh/
+ls
+history
+npm run test:watch
+ls
+ssh -i plexo-dev.pem ubuntu@ec2-3-14-215-54.us-east-2.compute.amazonaws.com
+ls
+ssh -i plexo-dev.pem ubuntu@dev-plexo.ezra.ai
+ls
+cat plexo-dev.pem 
+cd ezra/plexo/
+git log
+git statis
+git status
+git add .
+git status
+git commit -m 'Re-ogranize app file structure'
+git status
+git log
+git fetch
+git status
+git push
+git log
+git log
+npm run test:watch
+npm run test:watch
+npm run test:watch
+git lof
+git log
+git pull
+git push
+cd ezra/plexo/
+npm start
+history
+open -na Google\ Chrome --args --disable-web-security --user-data-dir="/tmp/chrome_dev"
+npm start
+cd ..
+ls
+cd ..
+cd tutorials/
+mkdir react-playground
+rm -r react-playground/
+create-react-app react-playground
+cd ..
+cd plex
+cd ezra/
+cd plexo/
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+git log
+git checkout HEAD
+git checkout master
+git log
+npm start
+npm start
+npm start
+cd ..
+cd
+cd tutorials/
+ls
+cd jest
+ls
+code .
+npm start
+npm install
+npm start
+cd
+cd ezra/plexo/
+npm stsart
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+cd checkout master
+git checkout master
+git pull
+git status
+git log
+git reset --hard HEAD
+git pull
+git log
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm run build
+git pull
+git log
+npm run test:watch
+git fetch
+git status
+npm run test:watch
+npm run test:watch
+git fetch
+git status
+git push
+git pull
+npm run test:watch
+git log
+git fetch
+git status
+git push
+git log
+npm run test:Watch
+npm run test:watch
+git fetch
+git status
+git pull
+npm run test
+git status
+git push
+git status
+git push
+git fetch
+git status
+git log
+git pull
+git stash
+git pull
+git log
+git reset --hard 18019bc49d648d805d3610ffb03c6129bfe4cb79
+git stash apply
+git log
+git stash apply
+git pull
+npm install
+git stash appl
+git stash apply
+npm run test
+git push
+git stash
+git stash apply
+history
+open -na Google\ Chrome --args --disable-web-security --user-data-dir="/tmp/chrome_dev"
+ls
+cd ..
+ls
+cd ryanolejnik/
+ls -a
+cd Applications/
+ls
+cd Chrome\ Apps.localized/
+ls
+ls
+pwd
+lx
+ls
+cd Identity\ API\ Scope\ Approval\ UI.app/
+ls
+cd Contents/
+ls
+tree .
+cd Resources/
+ls
+cd app.icns 
+cat app.icns 
+cd
+history
+cd .ssh/
+ssh -i plexo-dev.pem ubuntu@ec2-3-14-215-54.us-east-2.compute.amazonaws.com
+history
+open -na Google\ Chrome --args --disable-web-security --user-data-dir="/tmp/chrome_dev"
+chrome
+ls
+history
+open -na Google\ Chrome --args --disable-web-security --user-data-dir="/tmp/chrome_dev"
+node
+cd
+ls
+cd ezra/
+ls
+cd ohif-viewer/
+git fetch
+git status
+npm start
+git log
+history
+ssh -i .ssh/plexo-dev.pem ubuntu@ec2-3-14-215-54.us-east-2.compute.amazonaws.com
+cd ezra/plexo/
+git log
+npm cache clean
+npm cache verify
+npm cache clean --force
+npm cache clean 
+brew update
+brew install openssl
+brew reinstall openssl
+npm install
+node
+cd ezra/plexo/
+git fetch
+git status
+git log master/origin
+git log origin/master
+cd 
+cd Desktop/
+cd funeral/
+touch speech.txt
+coxe speech.txt 
+code speech.txt 
+code .
+node
+cd ezra/ohif-viewer/
+npm start
+node
+cd ezra/ohif-viewer/
+npm start
+cd
+cd Desktop/
+touch temp.js
+code temp.js 
+vi temp.js 
+cat temp.js 
+cat temp.js 
+history
+cd
+ssh -i .ssh/plexo-dev.pem ubuntu@ec2-3-14-215-54.us-east-2.compute.amazonaws.com
+node
+curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-
+curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash -o ~/.git-completion.bash
+vi ~/.bash_profile
+cd ezra/plexo/
+cd Desktop/
+touch worker.js
+ls
+python3
+history
+ssh -i .ssh/plexo-dev.pem ubuntu@ec2-3-14-215-54.us-east-2.compute.amazonaws.com
+node
+histpry
+history
+ssh -i .ssh/plexo-dev.pem ec2-18-219-249-42.us-east-2.compute.amazonaws.com
+ssh -i .ssh/plexo-dev.pem ec2-18-219-249-42.us-east-2.compute.amazonaws.com
+ssh -i .ssh/plexo-dev.pem ec2-18-219-249-42.us-east-2.compute.amazonaws.com
+ssh -i .ssh/plexo-dev.pem ubuntu@ec2-18-219-249-42.us-east-2.compute.amazonaws.com
+ssh -i .ssh/plexo-dev.pem ubuntu@
+ssh -i .ssh/plexo-dev.pem ubuntu@ec2-18-218-164-128.us-east-2.compute.amazonaws.com
+ssh -i .ssh/plexo-dev.pem ubuntu@ec2-18-218-164-128.us-east-2.compute.amazonaws.com
+ssh -i .ssh/plexo-dev.pem ubuntu@ec2-18-218-164-128.us-east-2.compute.amazonaws.com
+ssh -i .ssh/plexo-dev.pem ubuntu@ec2-18-218-164-128.us-east-2.compute.amazonaws.com
+ssh -i .ssh/plexo-dev.pem ubuntu@18.218.164.128
+ssh -i .ssh/plexo-dev.pem ubuntu@ec2-3-16-188-57.us-east-2.compute.amazonaws.com
+python3
+python3
+history
+ssh -i .ssh/plexo-dev.pem ubuntu@ec2-3-14-215-54.us-east-2.compute.amazonaws.com
+ssh -i .ssh/plexo-dev.pem ubuntu@3.16.188.57
+ssh -i .ssh/plexo-dev.pem ubuntu@ec2-3-16-188-57.us-east-2.compute.amazonaws.com
+ssh -i .ssh/plexo-dev.pem ubuntu@ec2-3-16-188-57.us-east-2.compute.amazonaws.com
+ssh -i .ssh/plexo-dev.pem ubuntu@ec2-3-16-188-57.us-east-2.compute.amazonaws.com
+ssh -i .ssh/plexo-dev.pem ubuntu@ec2-3-16-188-57.us-east-2.compute.amazonaws.com
+ssh -i .ssh/plexo-dev.pem ubuntu@ec2-13-59-235-13.us-east-2.compute.amazonaws.com
+ssh -i .ssh/plexo-dev.pem ubuntu@ec2-3-16-188-57.us-east-2.compute.amazonaws.com
+ssh -i .ssh/plexo-dev.pem ubuntu@3.15.106.133
+ssh -i .ssh/plexo-dev.pem ubuntu@3.15.106.133
+ssh -i .ssh/plexo-dev.pem ubuntu@3.15.106.133
+cd Desktop/
+vi flask_log_app.py
+ssh -i .ssh/plexo-dev.pem ubuntu@3.15.106.133
+ssh -i .ssh/plexo-dev.pem ubuntu@3.15.106.133
+ssh -i .ssh/plexo-dev.pem ubuntu@3.15.106.133
+python3
+ssh -i .ssh/plexo-dev.pem ubuntu@3.15.106.133
+ssh -i .ssh/plexo-dev.pem ubuntu@3.15.106.133
+node
+ssh -i .ssh/plexo-dev.pem ubuntu@3.15.106.133
+Date.now
+node
+ssh -i .ssh/plexo-dev.pem ubuntu@3.15.106.133
+ssh -i .ssh/plexo-dev.pem ubuntu@3.14.215.54
+curl -d '{"timestamp": $(date "+%Y.%m.%d-%H.%M.%S"), "message": "Backed up SENSE to file ........", "level": "1"}' -H "Content-Type: application/json" -X POST http://3.15.106.133/log
+curl --header "Content-Type: application/json"   --request POST   --data '{"username":"xyz","password":"xyz"}'   http://3.15.106.133/log
+echo $(date "+%Y.%m.%d-%H.%M.%S")
+date +%s
+curl --header "Content-Type: application/json"   --request POST   --data '{"timestamp": $(date +%s), "message": "Backed up SENSE to file $(file_name)", "level": "1" }'   http://3.15.106.133/log
+curl --header "Content-Type: application/json"   --request POST   --data '{"timestamp": $(date +%s), "message": "Backed up SENSE to file file_name", "level": "1" }'   http://3.15.106.133/log
+curl -d '{"timestamp": $(date "+%Y.%m.%d-%H.%M.%S"), "message": "Backed up SENSE to file ........", "level": "1"}' -H "Content-Type: application/json" -X POST http://3.15.106.133/log
+curl -d '{"timestamp": 3333, "message": "Backed up SENSE to file ........", "level": "1"}' -H "Content-Type: application/json" -X POST http://3.15.106.133/log
+time = 3
+$time = 3
+TIME=3
+$TIME
+echo 'time is $(TIME)'
+echo "time is $(TIME)"
+echo "time is $TIME"
+curl -d '{"timestamp": $TIME, "message": "Backed up SENSE to file ........", "level": "1"}' -H "Content-Type: application/json" -X POST http://3.15.106.133/log
+curl -d '{"timestamp": $TIME, "message": "Backed up SENSE to file ........", "level": "1"}' -H "Content-Type: application/json" -X POST http://3.15.106.133/log
+curl -d '{"timestamp": ${TIME}, "message": "Backed up SENSE to file ........", "level": "1"}' -H "Content-Type: application/json" -X POST http://3.15.106.133/log
+curl -d "{"timestamp": ${TIME}, "message": "Backed up SENSE to file ........", "level": "1"}" -H "Content-Type: application/json" -X POST http://3.15.106.133/log
+curl -d "{"timestamp": ${TIME}, "message": "Backed up SENSE to file ........", "level": "1"}" -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d "{"timestamp": "${TIME}", "message": "Backed up SENSE to file ........", "level": "1"}" -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d "{"timestamp": "$TIME", "message": "Backed up SENSE to file ........", "level": "1"}" -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d "{"timestamp": "'"$TIME"'", "message": "Backed up SENSE to file ........", "level": "1"}" -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"timestamp": "'"$TIME"'", "message": "Backed up SENSE to file ........", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+FILE_NAME='backup123.backup'
+TIME=date +%s
+TIME=(date +%s)
+echo $TIME
+echo date 
+echo date +%s
+echo 'date +%s'
+echo '(date +%s)'
+d=$(date +%Y-%m-%d)
+echo $d
+TIMESTAMP=$(date +%s)
+echo $TIMESTAMP
+FILENAME='backup_123.log'
+echo $FILENAME
+curl -d '{"timestamp": "'"$TIME"'", "message": "Backed up SENSE to file '"$TIME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"timestamp": 1, "message": "Backed up SENSE to file '"$TIME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"timestamp": 1, "message": "Backed up SENSE to file '"$TIFILENAME", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"timestamp": 1, "message": "Backed up SENSE to file '"$FILENAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"timestamp": 1, "message": "Backed up SENSE to file '"$FILENAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"timestamp": 1,"'"$TIME"'""message": "Backed up SENSE to file '"$FILENAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"timestamp": 1,"'"$TIME"'", "message": "Backed up SENSE to file '"$FILENAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"timestamp": "'"$TIME"'", "message": "Backed up SENSE to file '"$FILENAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+TIMESTAMP
+$TIMESTAMP
+echo $TIMESTAMP
+echo $TIMESTAMP
+curl -d '{"timestamp": "'"$TIME"'", "message": "Backed up SENSE to file '"$FILENAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"timestamp": "'"$TIME"'", "message": "Backed up SENSE to file '"$FILENAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"timestamp": "'"$TIME"'", "message": "Backed up SENSE to file '"$FILENAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"message": "Backed up SENSE to file '"$FILENAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"message": "Backed up SENSE to file '"$FILENAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"message": "Backed up SENSE to file '"$FILENAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"message": "Backed up SENSE to file '"$FILENAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"message": "Backed up SENSE to file '"$FILE_NAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+echo FILE_NAME
+echo $FILE_NAME
+FILENAME='backup_123.log'
+curl -d '{"message": "Backed up SENSE to file '"$FILE_NAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+FILENAME='backup_123.loggg'
+curl -d '{"message": "Backed up SENSE to file '"$FILE_NAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+FILE_NAME='backup_123.loggg'
+curl -d '{"message": "Backed up SENSE to file '"$FILE_NAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+python3
+curl -d '{"message": "Backed up SENSE to file '"$FILE_NAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+TIMESTAMP=$(date +%s)
+echo $TIMESTAMP
+TIME=(date -d )
+date -d '2012-12-12 7 days'
+TIME=(date -d '2012-12-12 7 days')
+echo $TIME
+TIME=(date -d '2012-12-12 7 days' +%s)
+echo $TIME
+TIME=(date -d '2012-12-12 7 days' '+%s')
+echo $TIME
+FILE_NAME='backup_123.log'
+TIME=(date +%s)
+echo $TIME
+date +%s
+TIME=date +%s
+TIME=(date +%s)
+echo $TIME
+TIME="date +%s"
+echo TIME
+echo $TIME
+TIME="(date +%s)"
+echo $TIME
+TIME="$(date +%s)"
+echo $TIME
+TIME="$(date +%s)"
+echo $TIME
+TIME_STAMP="$(date +%s)"
+echo $TIME_STAMP
+curl -d '{"timestamp": "'"$TIME_STAMP"'","message": "Backed up SENSE to file '"$FILE_NAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"timestamp": "'"$TIME_STAMP"'","message": "Backed up SENSE to file '"$FILE_NAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+echo TIME_STAMP
+echo $TIME_STAMP
+echo $TIME_STAMP
+curl -d '{"timestamp": "'"$TIME_STAMP"'","message": "Backed up SENSE to file '"$FILE_NAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"timestamp": "'"$TIME_STAMP"'","message": "Backed up SENSE to file '"$FILE_NAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"timestamp": "'"$TIME_STAMP"'","message": "Backed up SENSE to file '"$FILE_NAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+node
+curl -d '{"timestamp": "'"$TIME_STAMP"'","message": "Backed up SENSE to file '"$FILE_NAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"timestamp": "'"$TIME_STAMP"'","message": "Backed up SENSE to file '"$FILE_NAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"timestamp": "'"$TIME_STAMP"'","message": "Backed up SENSE to file '"$FILE_NAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"timestamp": "'"$TIME_STAMP"'","message": "Backed up SENSE to file '"$FILE_NAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+FILE_NAME='backup_123.log'
+TIME_STAMP="$(date +%s)"
+curl -d '{"timestamp": "'"$TIME_STAMP"'","message": "Backed up SENSE to file '"$FILE_NAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+python3
+curl -d '{"timestamp": "'"$TIME_STAMP"'","message": "Backed up SENSE to file '"$FILE_NAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"timestamp": "'"$TIME_STAMP"'","message": "Backed up SENSE to file '"$FILE_NAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+curl -d '{"timestamp": "'"$TIME_STAMP"'","message": "Backed up SENSE to file '"$FILE_NAME"'", "level": "1"}' -H "Content-Type: application/json" -X POST http://dev-plexo-log.ezra.ai/log
+ssh -i .ssh/plexo-dev.pem ubuntu@3.15.106.133
+ssh -i .ssh/plexo-dev.pem ubuntu@3.15.106.133
+ssh -i .ssh/plexo-dev.pem ubuntu@3.15.106.133
+ssh -i .ssh/plexo-dev.pem ubuntu@3.14.215.54
+ssh -i .ssh/plexo-dev.pem ubuntu@3.15.106.133
+cd ezra/plexo/
+nom start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+git pull
+git log
+git diff origin/master
+git log
+git reset --hard 64bcc121017e6cf5b04ae284ae67487a9acc5f54
+git log
+git status
+git pull
+git log
+npm start
+npm install
+npm start
+npm start
+npm start
+npm install
+npm update
+npm --version
+npm --version
+npm install
+npm start
+npm rebuild node-sass
+npm install
+npm start
+git log
+git pul
+git pull
+git log
+npm startt
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+git pull
+git log
+git pull
+git stash
+git pull
+git stash apply
+git push
+npm run test
+git pull
+git pull
+git pull
+git push
+git push
+git log
+git push
+git pull
+npm install dotenv
+git log
+git pull
+git pull
+git push
+git push
+git pull
+git push
+git push
+git push
+git pull
+git stash
+git pull
+git log
+git checkout 9bd79b15fcaac8a8a7cd2666035a8e73c6a5ea57
+git checkout master

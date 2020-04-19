@@ -1,0 +1,373 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/tutorials/context-api" />
+        <option value="$USER_HOME$/tutorials/test" />
+        <option value="$USER_HOME$/ezra/plexo" />
+        <option value="$USER_HOME$/tutorials/react-bare-bones-starter" />
+        <option value="$USER_HOME$/tutorials/react-native-audio-toolkit" />
+        <option value="$USER_HOME$/projects/audio_mixer" />
+        <option value="$USER_HOME$/projects/audio_mix" />
+        <option value="$USER_HOME$/tutorials/mortgage_calculator" />
+        <option value="$USER_HOME$/tutorials/react_native_app" />
+        <option value="$USER_HOME$/tutorials/mortgage-calculator" />
+        <option value="$USER_HOME$/ezra/dna-risk-analysis" />
+        <option value="$USER_HOME$/paddle/paddlytics" />
+        <option value="/private/var/folders/k8/p561z1hs6qg5ydyhnd30z14w0000gn/T/index_map.json" />
+        <option value="$USER_HOME$/ezra/hub_cypress_testing" />
+        <option value="$USER_HOME$/ezra/ezra-net" />
+        <option value="$USER_HOME$/ezra/ice_manager_frontend" />
+        <option value="$USER_HOME$/ezra/ice_manager/front_end" />
+        <option value="$USER_HOME$/ezra/QA" />
+        <option value="$USER_HOME$/ezra/ohif-viewer" />
+        <option value="$USER_HOME$/ezra/dockerized-plexo" />
+        <option value="$USER_HOME$/ezra/ohif-core-fork" />
+        <option value="$USER_HOME$/paddle/paddleservices" />
+        <option value="$USER_HOME$/workshops/jsWorkshop" />
+        <option value="$USER_HOME$/ezra/sense" />
+        <option value="$USER_HOME$/ezra/node-red" />
+        <option value="$USER_HOME$/ezra/pie" />
+        <option value="$USER_HOME$/ezra/plexo2" />
+        <option value="$USER_HOME$/ezra/nginx subrequest method" />
+        <option value="$USER_HOME$/ezra/serverless-auth" />
+        <option value="$USER_HOME$/paddle" />
+      </list>
+    </option>
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/ezra/QA">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569261058804" />
+              <option name="buildTimestamp" value="1558945003729" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/dna-risk-analysis">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1582832808186" />
+              <option name="buildTimestamp" value="1558944996474" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/dockerized-plexo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568915135897" />
+              <option name="buildTimestamp" value="1558944980535" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/ezra-net">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1580235841745" />
+              <option name="buildTimestamp" value="1558945004177" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/hub_cypress_testing">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1580235903874" />
+              <option name="buildTimestamp" value="1558945004177" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/ice_manager/front_end">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1575650356403" />
+              <option name="buildTimestamp" value="1558944973597" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/ice_manager_frontend">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1579895642829" />
+              <option name="buildTimestamp" value="1558944993557" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/nginx subrequest method">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564408106411" />
+              <option name="buildTimestamp" value="1558944978423" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/node-red">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567694329473" />
+              <option name="buildTimestamp" value="1558944967943" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/ohif-core-fork">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568905305696" />
+              <option name="buildTimestamp" value="1558944980535" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/ohif-viewer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568916405304" />
+              <option name="buildTimestamp" value="1558944980535" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/pie">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566933845483" />
+              <option name="buildTimestamp" value="1558945018949" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/plexo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1586662386663" />
+              <option name="buildTimestamp" value="1558944987625" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/plexo2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564439337699" />
+              <option name="buildTimestamp" value="1558944978423" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/sense">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568042792239" />
+              <option name="buildTimestamp" value="1558945002279" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/serverless-auth">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563587636723" />
+              <option name="buildTimestamp" value="1558945010334" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/paddle">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563551292798" />
+              <option name="buildTimestamp" value="1558944960307" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/paddle/paddleservices">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568817861006" />
+              <option name="buildTimestamp" value="1558944983953" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/paddle/paddlytics">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1581476807218" />
+              <option name="buildTimestamp" value="1558944993854" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/audio_mix">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1585270306226" />
+              <option name="buildTimestamp" value="1558944968423" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/audio_mixer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1585271415410" />
+              <option name="buildTimestamp" value="1558944968423" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tutorials/context-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1587079531605" />
+              <option name="buildTimestamp" value="1558945004969" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tutorials/mortgage-calculator">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1584923697728" />
+              <option name="buildTimestamp" value="1558944971047" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tutorials/mortgage_calculator">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1585270299164" />
+              <option name="buildTimestamp" value="1558944968423" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tutorials/react-bare-bones-starter">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1585695713955" />
+              <option name="buildTimestamp" value="1558944996771" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tutorials/react-native-audio-toolkit">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1585274520650" />
+              <option name="buildTimestamp" value="1558944968423" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tutorials/react_native_app">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1585003309271" />
+              <option name="buildTimestamp" value="1558945002545" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tutorials/test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1586663055722" />
+              <option name="buildTimestamp" value="1558944987625" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workshops/jsWorkshop">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568157902386" />
+              <option name="buildTimestamp" value="1558945012973" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/private/var/folders/k8/p561z1hs6qg5ydyhnd30z14w0000gn/T/index_map.json">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1580939009180" />
+              <option name="buildTimestamp" value="1558944985147" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,10 @@
+Dart
+Karma
+com.github.masahirosuzuka.PhoneGapIntelliJPlugin
+com.intellij.jsp
+com.jetbrains.plugins.jade
+com.jetbrains.plugins.meteor
+cucumber-javascript
+hg4idea
+org.coffeescript
+org.jetbrains.plugins.haml

@@ -1,0 +1,500 @@
+node
+which node-red
+00~npm list -g01~
+npm list -g01~
+npm list -g
+npm list -g | grep node-red
+npm list -g
+npm list -g
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+cd ..
+ls
+sudo npm install -g --unsafe-perm node-red
+node-red
+node-red
+which node-red
+cd /usr/local/bin
+ls
+ls
+cd node-red
+cd
+cd ezra/node-red/`
+cd ezra/node-red/
+ls
+sudo mv double_all_values.py double_value.py
+ls
+ls
+cat double_value.py 
+cd ezra/
+ls
+git clone git@github.com:node-red/node-red.git
+cd node-red/
+whic hwebstorm
+whic webstorm
+which webstorm
+sudo npm install
+npm start
+npm start
+sudp npm i
+sudp npm install
+sudo npm install
+npm install node-sass@4.12.0
+sudo npm install node-sass@4.12.0
+node -v
+nvm
+brew update node
+sudo npm cache clean -f
+sudo npm install -g n
+sudo n stable
+sudo npm install
+cd ..
+ls -lah
+cd node-red/
+ls
+npm start
+ls
+ls
+ls
+sudo rm node_modules/
+sudo rm -r node_modules/
+sudo npm install
+sudo npm install node-sass@4.12.0
+npm install node-sass@4.12.0
+sudp rm -r node_modules/
+sudo rm -r node_modules/
+npm install
+npm start
+npm rin build
+npm run build
+nom start
+npm start
+npm install node-red-contrib-pythonshell
+npm run build
+npm start
+npm run build
+npm start
+npm start
+node-red-nodegen ~/.node-red/lib/function/lower-case.js
+node-red-nodegen ~/.node-red/lib/functions/lower-case.js
+cd node-red-contrib-lower-case
+lx
+cd ..
+python3
+ssh ubuntu@uat-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@uat-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@uat-plexo.ezra.com
+cd ezra/node-red/
+pwd
+double_all_values.py
+sudo vi double_all_values.py
+ls
+pwd
+sudo vi double_all_values.py
+sudo vi double_all_values.py
+sudo vi double_all_values.py
+sudo vi double_all_values.py
+sudo vi double_all_values.py
+sudo vi add_100.py
+python
+python3
+vi double_value.py 
+vi double_value.py 
+vi double_value.py 
+mv double_value.py double_values.py 
+vi add_100.py 
+cat double_values.py 
+vi add_100.py 
+vi add_100.py 
+vi add_100.py 
+vi add_all_values.py
+vi double_values.py 
+mv add_all_values.py sum_all_values.py 
+time
+time ls
+vi test.py
+time python3 test.py 
+vi test.py
+time python3 test.py 
+ls
+vi add_100.py 
+vi add_100.py 
+vi add_100.py 
+vi add_100.py 
+npm install -g node-red-nodegen
+sudo npm install -g node-red-nodegen
+node-red-nodegen http://petstore.swagger.io/v2/swagger.json
+ls
+mv node-red-contrib-swagger-petstore/ ../node-red-contrib-swagger-petstore/
+ls
+cd ..
+ls
+cd node-red-contrib-swagger-petstore/
+sudo npm link
+cd ~/.node-red
+npm link node-red-contrib-swagger-petstore
+node-red
+node-red-nodegen ~/.node-red/lib/function/lower-case.js
+cd ..
+cd ezra/node-red-contrib-swagger-petstore/
+nudo npm link
+sudo npm link
+cd ..
+cd node-red
+npm start
+dwd
+cwd
+cwd
+pwd
+linux
+ls
+cd ezra/
+ls
+cd node-red
+ls
+vi sum_all_values.py 
+python3
+cd ezra/
+git clone git@github.com:ezraai/sense.git
+cd sense/
+code .
+ssh ubuntu@dev-plexo.ezra.com
+history
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-plexo.ezra.com
+/usr/local/opt/python/bin/python3.7 -m pip install -U pylint --user
+git push
+git pull
+mysqladmin
+mysql
+cd ezra/
+ls
+cd sense/
+ssh ubuntu@dev-sense.ezra.com
+ssh -i ~/.ssh/ezra-dl-keys.pem ubuntu@dev-sense.ezra.com
+ssh -i ~/.ssh/ezra-dl-keys.pem ubuntu@dev-sense.ezra.com
+mysql
+export PATH=${PATH}:/usr/local/mysql/bin
+mysql
+mysql --help
+mysql -p password
+mysql -p
+mysql -u root -p password
+mysql -u root -p
+mysqladmin -u root password ezrasense
+mysqladmin -u root -p  ezrasense
+mysql -u root -p password ezrasense
+mysql -u root -p
+git push
+git push
+git push
+git push
+mysql
+mysql
+sudo vi /etc/paths
+cd ezra/node-red/
+ls
+cat add_100.py 
+mkdir hsa
+ls
+ls
+mkdir hsa
+chmod 775 hsa
+cd hsa/
+ls
+cd ..
+sudo chmod 777 hsa
+cd ezra/node-red/
+ls
+cd ezra/node-red/
+ls
+sudo vi add_100.py 
+python3
+python3 add_100.py 
+python3 add_100.py 
+sudo vi add_100.py 
+python3 add_100.py 200
+sudo vi add_100.py 
+sudo vi add_100.py [1,2,3]
+python3 add_100.py [1,2,3]
+python3 add_100.py [1,2,3]
+sudo vi add_100.py 
+cd ezra/sense/
+python3 runserver.py 
+pip3 install flask
+python3 runserver.py 
+pip3 install flask_restplus
+python3 runserver.py 
+pip3 install flask_sqlalchemy
+python3 runserver.py 
+pip3 install SimpleITK
+python3 runserver.py 
+pip3 install pymysql
+python3 runserver.py 
+ls
+python3 ezra/sense/model/__init__.py 
+python3 runserver.py 
+python3 runserver.py 
+python3 runserver.py 
+python3 runserver.py 
+python3 runserver.py 
+python3 runserver.py 
+python3 runserver.py 
+python3 runserver.py 
+python3 runserver.py 
+pip install -U flask-cors
+pip3 install -U flask-cors
+python3 runserver.py 
+python3 runserver.py 
+python3 runserver.py 
+python3 runserver.py 
+python3 runserver.py 
+python3 runserver.py 
+python3 runserver.py 
+python3 runserver.py 
+sudo python3 runserver.py 
+ls
+sudo python3 runserver.py 
+sudo python3 runserver.py 
+sudo python3 runserver.py 
+node-red
+cd
+cd ezra/
+ls
+cd node-red/
+npm start
+git push
+git push
+cd ezra/sense/
+ls
+python3 runserver.py 
+sudo python3 runserver.py 
+pwd
+sudo python3 runserver.py 
+sudo python3 runserver.py 
+sudo python3 runserver.py 
+sudo python3 runserver.py 
+python3
+which python3
+/usr/local/bin/python3
+vi ezra/
+vi ~/.vimrc
+vi ~/.vimrc
+vi ~/.vimrc
+vi test.txt
+vi ~/.vimrc
+vi ~/.vimrc
+vo test.js
+vi test.js
+vi ~/.vimrc
+rm ~/.vimrc
+vi ~/.vimrc
+vi ~/.vimrc
+vi test.js
+ls
+rm test.js 
+rm test.txt 
+;s
+ls
+touch hi
+ls
+rm hi
+ls
+ls
+cd ezra/
+ls
+rm node-red-contrib-swagger-petstore/
+rm -r node-red-contrib-swagger-petstore/
+sudo rm -r node-red-contrib-swagger-petstore/
+mkdir node-red-contrib-example-lower-case
+cd node-red-contrib-example-lower-case/
+npm init
+ls
+vi package.json 
+vo lower-case.js
+vi lower-case.js
+vi lower-case.html
+~/.node-red
+cd ~/.node-red
+ls
+ls
+pwd
+cd ..
+ls
+cd ezra/
+ls
+mkdir custom-nodes
+mv node-red-contrib-example-lower-case/ custom-nodes/node-red-contrib-example-lower-case
+cd node-red-contrib-example-lower-case
+cd ~/.node-red
+npm install
+npm install ~/ezra/custom-nodes/node-red-contrib-example-lower-case/
+sudo npm install ~/ezra/custom-nodes/node-red-contrib-example-lower-case/
+sudo npm install ~/ezra/custom-nodes/node-red-contrib-example-lower-case
+ls
+vi package.json 
+node-red
+sudo npm install ~/ezra/custom-nodes/node-red-contrib-example-lower-case
+ls
+ls
+rm -r node_modules/
+npm install
+sudo npm install
+sudo npm install ~/ezra/custom-nodes/node-red-contrib-example-lower-case
+node-red
+ssh ubuntu@dev-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-plexo.ezra.com
+cd
+l;s
+ls
+cd ezra/
+cd plexo/
+code .
+npm start
+npm start
+npm start
+npm start
+npm start
+mysql
+mysql -u root -p 
+vi ~/.local/lib/python3.6/site-packages/sqlalchemy/dialects/mysql/base.py 
+cd ~/.local/lib/python3.6/site-packages/sqlalchemy/dialects/mysql/base.py 
+cd ~/.local/lib/python3.6/site-packages/sqlalchemy/dialects/mysql
+cd ~/.local/lib/python3.6/site-packages/sqlalchemy/
+history
+ssh -i ~/.ssh/ezra.pem ubuntu@dev-sense.ezra.com
+ls
+cd workshops
+mkdir workshops
+cd workshops/
+git clone git@github.com:simistern/ARWorkshop01.git
+react-native init test
+npm install -g expo-cli
+sudo npm install -g expo-cli
+brew install yarn
+brew install yarn
+brew reinstall yarn
+brew install watchman
+sudo brew install watchman
+sudo npm install -g ngrok
+npm install -g ngrok
+npm install -g react-viro-cli
+sudo npm install -g react-viro-cli
+ls
+cd ARWorkshop01/
+ls
+cd ..
+react-viro init jsWorkshop
+sudo react-viro init jsWorkshop
+npm config get prefix
+sudo chown -R $(whoami) $(npm config get prefix)/{lib/node_modules,bin,share}
+ls
+rm -r jsWorkshop/
+ls
+ls
+sudo rm -r jsWorkshop/
+react-viro init jsWorkshop
+ls
+cd jsWorkshop/
+ls
+vi App.js 
+npm start
+npm start
+npm start
+npm start
+npm start
+npm install ngrok
+npm install -g ngrok
+npm install -g react-viro-cli
+ls
+ls
+cd ..
+ls
+sudo rm -r jsWorkshop/
+react-viro init jsWorkshop
+cd jsWorkshop/
+ls
+vi App.js 
+npm start
+npm start
+npm start
+npm start
+npm i
+npm start
+npm start
+ngrok http 8081
+ngrok http 8081
+ngrok http 8081
+ngrok http 8081
+ngrok http 8081
+ngrok http 8081
+ngrok http 8081
+ngrok http 8081
+ngrok http 8081
+ngrok http 8081
+cd ezra/
+ls
+cd ohif-viewer/
+npm start
+ssh ubuntu@dev-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-plexo.ezra.com
+l
+cd workshops/
+cd jsWorkshop/
+code .
+cd
+cd ezra/plexo/
+npm start
+npm start
+npm start
+npm start
+ls
+rm node_modules/
+rm -r node_modules/
+sudo rm -r node_modules/
+npm install
+sudo chown -R $USER:$GROUP ~/.npm
+sudo chown -R $USER:$GROUP ~/.config
+npm install
+npm start
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@18.188.192.6
+ls
+cd ezra/ohif-viewer/
+npm start
+whoami
+whoami
+$USER
+echo $USER
+echo $GROUP
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@18.188.192.6
+ssh ubuntu@uat-sense.ezra.com
+ssh -i ~/.ssh/ezra.pem ubuntu@uat-sense.ezra.com
+ssh -i ~/.ssh/ezra.pem ubuntu@dev-sense.ezra.com
+ssh -i ~/.ssh/ezra.pem ubuntu@dev-sense.ezra.com
+ssh -i ~/.ssh/ezra.pem  ubuntu@uat-plexo.com
+ssh -i ~/.ssh/ezra.pem  ubuntu@uat-plexo.ezra.com
+ssh -i ~/.ssh/ezra-dl-keys.pem  ubuntu@uat-plexo.ezra.com
+ssh -i ~/.ssh/ezra-dl-keys.pem  ubuntu@uat-sense.ezra.com
+ssh -i ~/.ssh/ezra-dl-keys.pem  ubuntu@uat-sense.ezra.com
+ssh -i ~/.ssh/ezra.pem  ubuntu@dev-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem.pem  ubuntu@dev-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem  ubuntu@dev-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem  ubuntu@dev-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem  ubuntu@dev-plexo.ezra.com
+git push
+git checkout ryan
+git checkout -b ryan
+git log
+git push
+git push --set-upstream origin ryan
+git push --set-upstream origin ryan
+git push
+npm publish
+npm login
+npm login
+npm publish

@@ -1,0 +1,500 @@
+cd ..
+sudo mv OHIF-viewer ohif-viewer
+cd ohif-viewer/
+npm install
+code .
+npm start
+npm run dev
+yarn run dev
+brew install yarn
+npm i react-viewerbase --save-exact
+yarn
+yarn start
+cd ..
+cd plexo/
+ls
+npm start
+cd ..
+cd oh
+ls
+cd ohif-viewer/
+yarn start
+cd ezra/plexo/
+npm start
+npm start
+npm start
+npm install
+npm start
+npm start
+npm install
+npm start
+npm install
+npm start
+npm start
+npm start
+npm install
+npm start
+npm install
+npm start
+npm install
+npm start
+npm start
+npm install
+npm start
+open -na Google\ Chrome --args --disable-web-security --user-data-dir="/tmp/chrome_dev"
+cd paddle/paddleservices/
+code .
+code .
+code .
+ls
+ls
+mkdir tutorials
+create-react-app context-api
+brew instanpm install -c create-react-app
+npm install -g create-react-app
+create-react-app context-api
+cd context-api/
+code .
+npm start
+cd tutorials/
+ls
+ls
+cd ..
+l
+ls
+mv context-api/ tutorials/context-api
+ls
+cd tutorials/
+cd context-api/
+npm start
+code .
+npm start
+ cd ex
+cd ezra/ohif-viewer/
+npm start
+cd .ssh/
+ls
+ssh -i orthanc-reverse-proxy.pem ubuntu@ec2-3-14-215-54.us-east-2.compute.amazonaws.com
+git fetch
+git status
+git push
+npm install
+git commit --amend --no-edit
+git log
+git fetch
+git status
+git log
+git rebase -i HEAD~5
+git log
+git log
+git rebase -i HEAD~5
+git log
+git fetch
+git status
+git pull
+git status
+git push
+npm run test
+npm run test
+npm run test
+code ezra/ohif-viewer/
+cd ezra/plexo/
+git log
+git log
+git rebase -i HEAD~5
+git rebase --continue
+git log
+node
+npm r -g watchman 
+brew install watchman
+ls
+cd .ssh
+history
+ssh -i orthanc-reverse-proxy.pem ubuntu@ec2-3-14-215-54.us-east-2.compute.amazonaws.com
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test --coverage
+npm run test --coverage
+npm run test --help
+npm run test
+git log
+git log
+git fetch
+git status
+git push
+git log
+git log
+git push
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+node src/components/toolbar/layoutButton/LayoutButton.test.js 
+node --inspect-brk node_modules/.bin/jest
+npm run test
+npm run test
+npm run test
+cd src/components/toolbar/layoutButton/
+ls
+jest LayoutButton.test.js 
+npm test --
+ls
+npm test
+npm test LayoutButton.test.js 
+npm test --LayoutButton.test.js 
+npm test --LayoutButton
+npm test -- LayoutButton
+npm test -t LayoutButton
+jest -t LayoutButton
+jest -t LayoutButton
+jest -t LayoutButton
+npm test -t LayoutButton
+jest -t LayoutButton
+jest -t LayoutButton
+jest -t LayoutButton
+jest -t LayoutButton
+jest -t LayoutButton
+jest -t LayoutButton
+jest -t LayoutButton
+jest -t LayoutButton
+jest -t LayoutButton
+jest -t LayoutButton
+jest -t LayoutButton
+jest -t LayoutButton
+jest -t LayoutButton
+jest -t LayoutButton
+jest -t LayoutButton
+jest -t LayoutButton
+jest -t LayoutButton
+jest -t LayoutButton
+jest -t LayoutButton
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test:watch
+npm run test:watch
+npm run test:watch
+git log
+git fetch
+git status
+git log
+git log
+git fetch
+git status
+git log
+git log
+npm test:watch
+npm run test:watch
+npm install --save react-helmet@6.0.0-beta
+npm run test:watch
+npm uninstall --save react-helmet@6.0.0-beta
+npm run test:watch
+git log
+git lof
+git log
+git rebase -i HEAD~3
+git log
+git pull
+git push
+git status
+git push
+npm run test:watch
+npm run test:watch
+npm update --save babel-jest
+npm update --save react-redux
+npm install --save react-redux
+npm install --savereact-redux@7.0.3
+npm install --save react-redux@7.0.3
+npm run test:watch
+npm run test
+npm test
+npm test
+npm test
+npm eject
+npm run eject
+npm run eject
+cd .ssh/
+history
+ssh -i orthanc-reverse-proxy.pem ubuntu@ec2-3-14-215-54.us-east-2.compute.amazonaws.com
+cd .ssh/
+history
+ssh -i orthanc-reverse-proxy.pem ubuntu@ec2-3-14-215-54.us-east-2.compute.amazonaws.com
+ls
+cat orthanc-reverse-proxy.pem 
+ls
+mv orthanc-reverse-proxy.pem plexo-de
+ls
+cd ..
+ls
+cp .ssh/plexo-dev.pem plexo-dev.pem
+ls
+cd .ssh
+ls
+history
+ssh -i plexo-dev.pem ubuntu@ec2-3-14-215-54.us-east-2.compute.amazonaws.com
+cd ezra/ohif-viewer/
+npm start
+ls
+cd tutorials/
+ls
+cd ..
+ls
+cd paddle/
+ls
+cd tutorials/
+ls
+cd redux-s
+cd redux_saga/
+code .
+code .
+code .
+npm start
+npm install
+npm start
+node --inspect-brk node_modules/.bin/jest
+cd
+cd ..
+cd 
+cd ezra/plexo/
+node --inspect-brk node_modules/.bin/jest
+npm i -g jest-cli
+cd
+ls
+cd tutorials/
+ls
+gut clone jext-with-redux
+git clone 
+git clone git@github.com:simpletut/Testing-React-Redux-with-Jest-and-Enzyme.git jext-with-redux
+ls
+mv jext-with-redux/ jest-with-redux
+cd jest-with-redux/
+npm install
+code .
+npm start
+npm install
+npm run test
+npm run test:watch
+npm install
+npm run test:watch
+git stash
+git log
+git log
+git commit --amend --no-edit
+git log
+git checkout 44d28d34ec21e001df358738582c0e9b73472171
+git checkout HEAD
+git log
+git commit --amend --no-edit
+git commit --amend --no-edit
+git fetch
+git status
+git pull
+git log
+git log
+git commit
+npm run test
+npm run test:watch
+npm run test:watch
+git log
+git reset 7645cb2cb2ad2a87a874a18913f78af5beb7f7bf
+git fetch
+git log
+git status
+git pull
+git push
+npm run test:watch
+npm run test
+cross-env NODE_ENV=test jest src
+npm cross-env NODE_ENV=test jest src
+npm run test:watch
+npm test
+npm install
+npm test
+npm test
+git init
+git commit -m 'Setup project with redux'
+git commit -m 'Setup project with redux'
+npm test
+npm run test:watch
+npm install
+npm run test:watch
+npm run test:watch
+npm run test:watch
+git log
+git fetch
+git pull
+git push
+npm run test:watch
+git log
+git co -b refactoring
+git checkout -b refactoring
+cd ezra/plexo/
+git checkout -b refactoring
+git pull
+git branch --set-upstream-to=origin/master refactoring
+git pull
+cd .ssh/
+ls
+history
+npm run test:watch
+ls
+ssh -i plexo-dev.pem ubuntu@ec2-3-14-215-54.us-east-2.compute.amazonaws.com
+ls
+ssh -i plexo-dev.pem ubuntu@dev-plexo.ezra.ai
+ls
+cat plexo-dev.pem 
+cd ezra/plexo/
+git log
+git statis
+git status
+git add .
+git status
+git commit -m 'Re-ogranize app file structure'
+git status
+git log
+git fetch
+git status
+git push
+git log
+git log
+npm run test:watch
+npm run test:watch
+npm run test:watch
+git lof
+git log
+git pull
+git push
+cd ezra/plexo/
+npm start
+history
+open -na Google\ Chrome --args --disable-web-security --user-data-dir="/tmp/chrome_dev"
+npm start
+cd ..
+ls
+cd ..
+cd tutorials/
+mkdir react-playground
+rm -r react-playground/
+create-react-app react-playground
+cd ..
+cd plex
+cd ezra/
+cd plexo/
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+git log
+git checkout HEAD
+git checkout master
+git log
+npm start
+npm start
+npm start
+cd ..
+cd
+cd tutorials/
+ls
+cd jest
+ls
+code .
+npm start
+npm install
+npm start
+cd
+cd ezra/plexo/
+npm stsart
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+cd checkout master
+git checkout master
+git pull
+git status
+git log
+git reset --hard HEAD
+git pull
+git log
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm run build
+git pull
+git log
+npm run test:watch
+git fetch
+git status
+npm run test:watch
+npm run test:watch
+git fetch
+git status
+git push
+git pull
+npm run test:watch
+git log
+git fetch
+git status
+git push
+git log
+npm run test:Watch
+npm run test:watch
+git pull
+npm install
+git stash appl
+git stash apply
+npm run test
+git push
+git stash
+git stash apply

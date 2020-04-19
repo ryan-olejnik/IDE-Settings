@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="clo" value="console.log('$variable$=', $variable$);" description="Console.log a variable" toReformat="false" toShortenFQNames="true">
+    <variable name="variable" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,500 @@
+python3
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+history
+python3 -m meta_check.meta_scrape --db_user root --db_password password
+python3 -m meta_check.meta_scrape --db_user root --db_password password
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+ls
+ls
+python3 -m meta_check.meta_scrape
+git fetch
+git status
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+ssh -i ~/.ssh/ezra-dl-keys.pem ubuntu@alon-plexo.ezra.com
+cd ezra/
+git clone
+git clone git@github.com:ezraai/meta_check.git
+mv meta_check/ raven
+cd raven/
+mysql
+mysql --help
+mysql --help
+mysql --help
+mysql -p 'password'
+mysql -u root -p
+cd
+cd ezra/plexo/
+git log
+git tag -a build-934.2 -m "Pinned all package version numbers in package.json"
+git push origin build-934.2
+cd ..
+cd raven/
+ls
+python3 -m meta_check.server
+python3 -m meta_check.server
+cd ezra/plexo/
+ls
+git checkout dev 
+git checkout master
+git status
+git stash
+git checkout master
+npm install
+git pull
+npm install
+npm start
+git reset --hard origin/uat
+git log
+which java
+cd /usr/bin/java
+java
+sudo vi /etc/profile
+sudo vi /etc/profile
+cd
+ssh ubuntu@dev-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-plexo.ezra.com
+ls
+sudo ls
+sudo service sshd status
+mkdir ~/.ssh/authorized_keys
+cp ~/Documents/id_rsa.pub ~/.ssh/authorized_keys/
+ls
+rm ~/Documents/id_rsa.pub 
+ls
+ssh localhost
+ls
+rm ~/.ssh/authorized_keys/ -r
+rm -r ~/.ssh/authorized_keys/ 
+ls
+Use /usr/libexec/java_home -v 1.8
+/usr/libexec/java_home -v 1.8
+uptime
+ls
+git clone
+git clone git@github.com:SkrewEverything/Swift-Keylogger.git
+cd Swift-Keylogger/
+ls
+./Keylogger/
+ls
+ls Keylogger/Keylogger
+./Keylogger/Keylogger
+cd ~/Downloads/
+ls
+ls *ryan*
+./ryan_hipaa 
+./ryanHipaa 
+history
+ls
+history
+ps -e | grep "Keylogger"
+kill -9 10408
+ps -e | grep "Keylogger"
+ps -e | grep "Keylogger"
+ps -e | grep "Keylogger"
+sudo kill -9 10432
+ps -aux
+ps
+ps -e
+ls
+ps -e | grep "Keylogger"
+sudo kill -9 10473
+ps -eu | grep "Keylogger"
+ps -e -u | grep "Keylogger"
+ps -u
+ps --help
+ps -help
+ps -au
+ps -a
+sudo rm -fr /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin
+sudo rm -fr /Library/PreferencePanes/JavaControlPanel.prefPane
+sudo rm -fr ~/Library/Application\ Support/Oracle/Java
+cd /Library/Java/JavaVirtualMachines
+ls
+sudo rm *
+sudo -r rm *
+ls
+sudo rm -r *
+ls
+sudo rm -fr /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin
+sudo rm -fr /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin
+sudo rm -fr /Library/PreferencePanes/JavaControlPanel.prefPane
+sudo rm -fr ~/Library/Application\ Support/Oracle/Java
+java -v
+java
+java --uninstall
+java --help
+rm -r ~/"Library/Application Support/Oracle/Java"
+rm -r ~/Library/Applicationrm -r ~/"Library/Application Support
+rm -r ~/"Library/Application Support"
+cd ~/"Library/Application Support"
+ls
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+ssh ubuntu@dev-plexo.ezra.com
+curl s3://test-metadata-table/meta.csv
+history
+history | grep 'mysql'
+ssh -i ~/.ssh/ezra-dl-keys.pem ubuntu@13.59.130.224
+q
+la -l `which pip`
+ls -l `which pip`
+ls -l `which pip3`
+00~python -m pip install --upgrade pip01~pip3 install --upgrade pip01~
+python -m pip install --upgrade pip01~
+00~sudo yum install -y libffi-devel openssl-devel
+sudo yum install -y libffi-devel openssl-devel01~
+pip3 install --upgrade snowflake-connector-python01~
+pip3 install --upgrade snowflake-connector-python
+ssh -i ~/.ssh/ezra-dl-keys.pem ubuntu@dev-sense.ezra.com
+npm install -g swagger
+pip3 install flask-restplus
+sudo nginx status
+ls
+cd tutorials/
+mkdir flask-restplus
+cd flask-restplus/
+cd
+ssh -i ~/.ssh/ezra-dl-keys.pem ubuntu@dev-sense.ezra.com
+pip3 install flask-restful
+sudo rm -fr /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin
+sudo rm -fr /Library/PreferencePanes/JavaControlPanel.prefPane
+sudo rm -fr ~/Library/Application\ Support/Oracle/Java
+java -v
+java -version
+brew uninstall java
+brew search java
+cd /Library/Java/JavaVirtualMachines
+ls
+rm -rf jdk-13.0.1.jdk/
+sudo rm -rf jdk-13.0.1.jdk/
+ls
+java -version
+java -version
+java -version
+java -version
+java -version
+history
+cd /Library/Java/JavaVirtualMachines
+ls
+ls
+ls
+cd
+ls
+mysql
+mysql -u root 
+mysql -u root  -p password
+mysql -u root  talend
+mysql -u root -p
+jshell
+node
+ssh -i ~/.ssh/ezra-dl-keys.pem ubuntu@dev-sense.ezra.com
+java --version
+cd ezra/
+ls
+git clone git@github.com:ezraai/plexo-log.git
+cd plexo-log/
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-log.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-log.ezra.com
+history
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-log.ezra.com
+ue Nov  5 09:25:22 on ttys000
+ryanolejnik@Ryans-MacBook-Pro ~ $ ls
+history
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-log.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-log.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-log.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-log.ezra.com
+lysql mysql+pymysql://root:passord@localhost/sensedb
+cd ezra/plexo
+git checkout dev
+git status
+git reset --hard 
+git checkout dev
+git pull
+npm install
+npm start
+npm start
+ssh dev-sense.ezra.com
+ssh -i ~/.ssh/ezra-dl-keys.pem dev-sense.ezra.com
+ssh -i ~/.ssh/ezra-dl-keys.pem ubuntu@dev-sense.ezra.com
+cd ezra/plexo
+git fetch
+git diff master..uat
+npm start
+ssh ubuntu@dev-plexo.ezra.com
+cd ezra/plexo
+npm start
+npm start
+npm install
+npm start
+python
+python
+cd
+cd ezra/plexo-log/
+ls
+vi app.py 
+ssh ubuntu@uat-plexo.ezra.com
+chown -R $USER /Library/Python/2.7/site-packages/
+sudo chown -R $USER /Library/Python/2.7/site-packages/
+cd ..
+ls
+git clone git@github.com:ezraai/pqs.git
+cd pqs
+echo $ENV_SENSE_DB_HOST
+ENV_SENSE_DB_HOST=host
+echo $ENV_SENSE_DB_HOST
+vi ~/.bash_rc
+vi .bash_profile
+echo ENV_SENSE_DATABASE
+echo $ENV_SENSE_DATABASE
+echo $(ENV_SENSE_DATABASE)
+echo $(ENV_SENSE_DB_HOST)
+echo $ENV_SENSE_DB_HOST
+echo $ENV_SENSE_DB_HOST
+cd ezra/plexo
+ls -a
+cd ..
+ls -a
+cd pqs/
+ls -a
+cat .bash
+cat .bash_profile 
+rm .bash_profile 
+vi .bash_profile 
+vi .bash_profile 
+echo $ENV_SENSE_DB_HOST
+vi .bash_profile 
+ssh dev-sense.ezra.com
+ssh ubuntu@dev-sense.ezra.com
+vi .bash_profile 
+vi .bash_profile 
+cd ezra/plexo-log/
+cat client_logs.txt 
+ssh ubuntu@dev-sense.ezra.com
+cd ezra/sense/
+mkdir asa
+mkdir hsa
+cd asa/
+cd ..
+cd hsa/
+pwd
+ls
+cd ..
+;s
+ls
+rm -r hsa/
+rm -r asa/
+cd
+vi .bash_profile 
+cat .bash_profile 
+ssh ubuntu@plexo-log.ezra.com
+ssh ubuntu@dev-log.ezra.com
+ssh ubuntu@dev-log.ezra.com
+ssh ubuntu@dev-sense.ezra.com
+node
+ssh ubuntu@dev-sense.ezra.com
+ssh -i ~/.ssh/ezra-dl-keys.pem ubuntu@uat-pqs.ezra.com
+cd ezra/
+ls
+cd pqs
+ls
+ssh -i ~/.ssh/ezra-dl-keys.pem ubuntu@172.31.3.2
+ssh -i ~/.ssh/ezra-dl-keys.pem ubuntu@18.216.128.55
+cd ..
+ls
+<PyCharm>
+which pycharm
+cd
+ls
+cd Documents/
+ls
+ls
+cd Talend/
+ls
+cd RAVEN_ETL/
+ls
+cd components/
+ls
+cd ..
+cd businessProcess
+ls
+cd ..
+cd temp/
+ls
+cd ..
+cd talend.project 
+cd
+cd ezra/
+ls
+ls
+ks
+ls
+git clone git@github.com:ezraai/talend.git
+cd talend/
+ls -lah
+git status
+git status
+cd ..
+;s
+ls
+rm -r talend
+ls
+ls
+sudo rm -r talend
+ls
+cd
+cd Documents/Talend/
+ls
+git clone git@github.com:ezraai/talend.git
+ls
+mv talend/ RAVEN_GITHUB_REPO
+ls
+ls
+cd RAVEN_GITHUB_REPO/
+ls
+git status
+git reset --hard
+ls
+git status
+git reset --hard
+git status
+git reset --hard
+git status
+git status
+touch .gitignore
+vi .gitignore 
+git status
+git status
+ls
+git add .gitignore
+git status
+git status
+git commit -m "Added .gitignore file"
+git status
+vi .gitignore 
+ls
+ls -a
+vi .gitignore 
+git status
+git add .gitignore
+git status
+git commit -m "Updated .gitignore"
+git status
+git rm -r --cached .
+git status
+touch josh
+git status
+git log
+git reset --hard 665c616f21251b7def0611e3c111264430a67068
+git status
+git reset --hard 665c616f21251b7def0611e3c111264430a67068
+git status
+git reset --hard 665c616f21251b7def0611e3c111264430a67068
+git status
+rm josh
+git status
+git status
+vi .gitignore
+git status
+vi .gitignore
+vi .gitignore
+git status
+git rm -rf --cached .
+git add .
+git status
+cat .bash_profile 
+echo $ENV_SENSE_DB_HOS
+cat .bash_profile 
+vi .bash_profile 
+cd ezra/plexo
+npm start
+npm start
+cat .bash_pro
+cat ~/.bash_pro
+cat ~/.bash_profile 
+node test.js 
+node test.js 
+node test.js 
+node test.js 
+node test.js 
+node test.js 
+node test.js 
+node test.js 
+node
+node
+cd tutorials/
+ls
+cd react-playground/
+code .
+java -version
+cd
+java -version
+xattr -dr com.apple.quarantine /Applications/Pentaho-8.3.0.0-371/Data\ Integration.app
+java -version
+brew install java
+brew cask install java
+java -version
+cd /Library/Java/JavaVirtualMachines
+ls
+rm openjdk-13.0.1.jdk/
+rm -r openjdk-13.0.1.jdk/
+sudo rm -r openjdk-13.0.1.jdk/
+ls
+cd ezra/
+mkdir read_dicom_files
+python3
+python3 read_dicom.py 
+cd example_study/
+pwd
+python3 read_dicom.py 
+cd ..
+python3 read_dicom.py 
+python3 read_dicom.py 
+cd example_patient_list/
+pwd
+cd ..
+python3 read_dicom.py 
+python3 test.py 
+python3 read_dicom.py 
+python3 read_dicom.py 
+python3 test.py 
+python3 test.py 
+python3 test.py 
+python3 read_dicom.py 
+python3 read_dicom.py 
+python3 read_dicom.py 
+python3 read_dicom.py 
+python3 read_dicom.py 
+python3 read_dicom.py 
+python3 read_dicom.py 
+python3 read_dicom.py 
+\
+checkout uat
+git checkout uat
+git pull
+git push
+git checkout master
+git pull
+git log
+git pull
+git checkout uat
+git pull
+git cherry-pick 78116aec053187eef6f352bfa03d9dd03d8c19d4
+git status
+git reset --hard
+git cherry-pick 78116aec053187eef6f352bfa03d9dd03d8c19d4
+git log
+git push
+git checkout master
+git reset --hard

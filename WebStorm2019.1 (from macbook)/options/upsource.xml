@@ -1,0 +1,23 @@
+<application>
+  <component name="UpsourceGlobalSettings">
+    <option name="clientLibraryDirPath2AccessTime">
+      <map>
+        <entry key="$USER_HOME$/Library/Caches/WebStorm2019.1/upsource/client_libraries/2018.2.1154" value="1563197326608" />
+        <entry key="$USER_HOME$/Library/Caches/WebStorm2019.1/upsource/client_libraries/2019.1.1432" value="1586663055775" />
+        <entry key="$USER_HOME$/Library/Caches/WebStorm2019.1/upsource/client_libraries_test/2018.2.1154" value="1559598911471" />
+      </map>
+    </option>
+    <option name="connectionInfos">
+      <map>
+        <entry key="http://upsource.ezra.ai/">
+          <value>
+            <MyUpsourceConnectionInfo>
+              <option name="accessTime" value="1586662389903" />
+              <option name="refreshToken" value="N9ndB1Oq10vWK8v5FZ0whp1ErFjmyt1563759374154" />
+            </MyUpsourceConnectionInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
