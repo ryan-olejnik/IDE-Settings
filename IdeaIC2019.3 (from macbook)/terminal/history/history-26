@@ -1,0 +1,299 @@
+ls
+pwd
+chmod +x *.sh
+dig https://dev-orthanc.ezra.com:8042/
+ping https://dev-orthanc.ezra.com/
+ping dev-orthanc.ezra.com
+mail
+mail -s "HEY THAGEE" thageesan@ezra.com
+cd
+vi email_body.txt
+mail --help
+cat email_body.txt | mail -s "HEY THAGEE" thageesan@ezra.com 
+cat email_body.txt | mail -s "HEY THAGEE" thageesan@ezra.com
+cd /Applications/
+ls
+cd Pentaho-8.3.0.0-371/
+ls
+kitchen.sh
+./kitchen.sh
+ls -lah
+bash kitchen.sh 
+./kitchen.sh ~/ezra/raven_pentaho/create_revenue_cube.kjb 
+./kitchen.sh -file=~/ezra/raven_pentaho/create_revenue_cube.kjb 
+./kitchen.sh -file=/Users/ryanolejnik/ezra/raven_pentaho/create_revenue_cube.kjb 
+kitchen.sh -file=/Users/ryanolejnik/ezra/raven_pentaho/create_revenue_cube.kjb 
+./kitchen.sh -file=/Users/ryanolejnik/ezra/raven_pentaho/create_revenue_cube.kjb 
+./kitchen.sh -file=/Users/ryanolejnik/ezra/raven_pentaho/create_revenue_cube.kjb 
+java -v
+echo $JAVA_HOME
+cd /Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk
+ls
+cd
+echo $JAVA_HOME
+vi .bash_pro
+ls -a
+vi .bash_profile 
+echo $JAVA_HOME
+cd ezra/raven_pentaho/
+pwd
+cd /Applications/Pentaho-8.3.0.0-371/
+./kitchen.sh -file=/Users/ryanolejnik/ezra/raven_pentaho/create_revenue_cube.kjb 
+$JAVA_HOME
+exho $JAVA_HOME
+$JAVA_HOME
+history
+./kitchen.sh -file=/Users/ryanolejnik/ezra/raven_pentaho/create_revenue_cube.kjb 
+$JAVA_HOME=/usr
+./kitchen.sh -file=/Users/ryanolejnik/ezra/raven_pentaho/create_revenue_cube.kjb 
+$JAVA_HOME
+echo $JAVA_HOME
+JAVA_HOME=/
+echo $JAVA_HOME
+JAVA_HOME=/usr
+echo $JAVA_HOME
+./kitchen.sh -file=/Users/ryanolejnik/ezra/raven_pentaho/create_revenue_cube.kjb 
+pwd
+vi kitchen.sh 
+ls
+vi kitchen.sh 
+cd
+cd ezra/raven_pentaho/
+touch shared.xml
+pwd
+cat shared.xml 
+open
+open .
+pwd
+cat shared.xml 
+cd
+cd .kettle/
+ls
+cat shared.xml
+cd ..
+cp .kettle/shared.xml ezra/raven_pentaho/shared.xml 
+cat ezra/raven_pentaho/shared.xml 
+cd ezra/
+cd pent
+cd raven_pentaho/
+pwd
+more shared.xml
+more shared.xml
+echo $KETTLE_HOME
+pwd
+cd /Applications/Pentaho-8.3.0.0-371/
+cd plugins/
+ls
+cd
+cd ezra/raven_pentaho/
+pwd
+ls
+ls -a
+cd
+ls
+ls -a
+cp --help
+cp -r .kettle/ ezra/raven_pentaho/.kettle
+ls
+rn .kettle/ .kettle-old
+mv .kettle/ .kettle-old
+ls -a
+cd ezra/raven_pentaho/
+;s
+ls
+ls -a
+git diff
+pwd
+ls -a
+cd .kettle/
+;s
+ls
+cd environment/
+;s
+ls
+cd ..
+ls
+ls
+cd ..
+l
+ls
+cd .kettle/
+ls
+cd
+cd .kettle
+ls
+ls
+cd environment/
+ls
+cd metastore/
+ls
+cd pentaho/
+ls
+cd ../../..
+cd
+cd .ssh_copy/
+ls
+aws configure
+cd
+rm -r .ssh_copy/
+ls -a
+python3
+python3
+python3 
+vi .bash_profile 
+pwd
+/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/bin/java
+/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/bin
+/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk
+cd /Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk
+ls
+cd Contents/
+ls
+cd ..
+cd MacOS
+ls
+cd COn
+cd Contents/
+ls
+cd MacOS/
+ls
+ls -a
+ls -lah
+cd ..
+cd ..
+;s
+cd ..
+ls
+ls
+cd jdk1.7.0_80.jdk/
+ls
+cd ..
+ls
+cd jdk1.8.0_231.jdk/
+ls
+cd ..
+which java
+cd /usr
+ls
+cd ..
+cd
+which java
+cd .kettle-old/
+ls
+cd environment/
+;s
+ls
+cd metastore/
+ls
+cd ../..
+ls
+cd ..
+mv .kettle_old .kettle
+ls -a
+open .
+cd ezra/raven_pentaho/
+pwd
+ls
+ls
+ls -a
+ls -lah
+cd .kettle/
+ls
+ls
+cd ..
+git log
+ls
+rm Raven.ktr 
+ls
+rm new_job.kjb 
+ls
+ls
+cd shared.xml
+cat shared.xml
+ls
+rm shared.xml
+rm shared.xml.backup 
+ls
+ls
+git log
+cd .ssh
+ls
+cd
+cd .ssh/
+ls
+cat id_rsa
+ls 
+cd ..
+cp .ssh/ .ssh_copy
+cp -r .ssh/ .ssh_copy
+;s
+ls
+ls -a
+ssh-keygen -t rsa -m PEM
+cd .ssh
+cat id_rsa
+cat id_rsa.pub 
+cd
+cd ezra/raven_pentaho/
+ls
+git pull
+git push
+ls
+git stash
+git status
+cd
+cd ezra/
+git clone git@github.com:ezraai/ice_manager.git
+cd
+ls -a
+python3
+aws configure
+aws s3 ls
+aws s3 ls
+cd .aws/
+cat credentials 
+checkout uat
+git checkout uat
+git pull
+git push
+git checkout master
+git pull
+git log
+git pull
+git checkout uat
+git pull
+git cherry-pick 78116aec053187eef6f352bfa03d9dd03d8c19d4
+git status
+git reset --hard
+git cherry-pick 78116aec053187eef6f352bfa03d9dd03d8c19d4
+git log
+git push
+git checkout master
+git reset --hard
+cd ezra/ice_manager/
+git status
+git status
+git status
+git status
+git commit -m "Setup react front-end"
+git push
+cd
+cd tutorials/
+git clone git@github.com:ryan-olejnik/react-bare-bones-starter.git
+cd react-bare-bones-starter/
+git status
+touch .gitignore
+vi .gitignore 
+git status
+vi .gitignore 
+git commit -m "Setup react project"
+git commit -am "Setup react project"
+git add .
+git commit -am "Setup react project"
+git push
+python3
+pip3 install fastjsonschema
+python3
+cd back_end/
+python3 runserver.py 
+python3 runserver.py 

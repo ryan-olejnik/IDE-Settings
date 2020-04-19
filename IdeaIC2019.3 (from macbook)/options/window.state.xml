@@ -1,0 +1,128 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.3360.2100@192dpi" x="1618" y="906" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.3360.2100@192dpi" x="966" y="738" />
+    <location key="CommitChangelistDialog2.0.0.3360.2100@192dpi" x="0" y="46" />
+    <location key="SettingsEditor.1680.0.1920.1080" x="2307" y="175" />
+    <location key="#KL-Divergence.1680.0.1920.1080" x="2312" y="172" />
+    <location key="com.intellij.ide.util.TipDialog.1680.0.1920.1080" x="2283" y="384" />
+    <location key="Vcs.Push.Dialog.1680.0.1920.1080" x="2288" y="284" />
+    <location key="MergeDialog.1680.0.1920.1080" x="1680" y="23" />
+    <location key="MultipleFileMergeDialog.1680.0.1920.1080" x="2317" y="274" />
+    <location key="find.popup.1680.0.1920.1080" x="2287" y="246" />
+    <location key="search.everywhere.popup.1680.0.1920.1080" x="2268" y="258" />
+    <location key="CommitChangelistDialog2.1680.0.1920.1080" x="1680" y="23" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.1680.0.1920.1080" x="2122" y="37" />
+    <location key="FileDocumentManager.FileCacheConflict.1680.0.1920.1080" x="1680" y="23" />
+    <location key="RollbackChangesDialog.0.0.3360.2100@192dpi" x="1276" y="530" />
+    <location key="search.everywhere.popup.0.0.3360.2100@192dpi" x="1010" y="500" />
+    <location key="RollbackChangesDialog.1680.0.1920.1080" x="2262" y="166" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.1680.0.1920.1080" x="2296" y="362" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.1680.0.1920.1080" x="1865" y="23" />
+    <location key="WELCOME_SCREEN.1680.0.1920.1080" x="2652" y="545" />
+    <location key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog.1680.0.1920.1080" x="2424" y="303" />
+    <location key="DiffContextDialog.1680.0.1920.1080" x="1934" y="130" />
+    <location key="find.popup.0.0.3360.2100@192dpi" x="948" y="434" />
+    <location key="FileChooserDialogImpl.1680.0.1920.1080" x="2601" y="318" />
+    <location key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.1680.0.1920.1080" x="2357" y="415" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1680.0.1920.1080" x="2183" y="148" />
+    <location key="#xdebugger.evaluate.1680.0.1920.1080" x="1994" y="174" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.1680.0.1920.1080" x="2165" y="298" />
+    <location key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1.1680.0.1920.1080" x="2010" y="263" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.3360.2100@192dpi" x="634" y="356" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.1680.0.1920.1080" x="2136" y="156" />
+    <location key="#Inspections.1680.0.1920.1080" x="2207" y="217" />
+    <location key="VCS.ChangeListViewerDialog.1680.0.1920.1080" x="2421" y="267" />
+    <location key="EnvironmentVariablesDialog.1680.0.1920.1080" x="2748" y="139" />
+    <location key="MergeDialog.0.0.3360.2100@192dpi" x="0" y="46" />
+    <location key="MultipleFileMergeDialog.0.0.3360.2100@192dpi" x="1040" y="518" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.3360.2100@192dpi" x="1094" y="580" />
+    <location key="SettingsEditor.0.0.3360.2100@192dpi" x="612" y="350" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="990" y="463" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="456" y="213" />
+    <location key="search.everywhere.popup.0.0.1920.1080" x="658" y="258" />
+    <location key="find.popup.0.0.1920.1080" x="582" y="276" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="64" y="23" />
+    <location key="MergeDialog.0.0.1920.1080" x="250" y="118" />
+    <location key="MultipleFileMergeDialog.0.0.1920.1080" x="705" y="274" />
+    <location key="RollbackChangesDialog.0.0.1920.1080" x="738" y="273" />
+    <size key="GridCell.Tab.0.left.1680.0.1920.1080" width="1833" height="708" />
+    <size key="GridCell.Tab.0.center.1680.0.1920.1080" width="1833" height="708" />
+    <size key="GridCell.Tab.0.right.1680.0.1920.1080" width="1833" height="708" />
+    <size key="GridCell.Tab.0.bottom.1680.0.1920.1080" width="1833" height="708" />
+    <size key="find.popup.1680.0.1920.1080" width="926" height="536" />
+    <size key="search.everywhere.popup.1680.0.1920.1080" width="670" height="676" />
+    <size key="MergeDialog.1680.0.1920.1080" width="1848" height="1057" />
+    <size key="CommitChangelistDialog2.1680.0.1920.1080" width="1853" height="1057" />
+    <size key="GridCell.Tab.1.left.1680.0.1920.1080" width="1833" height="704" />
+    <size key="GridCell.Tab.1.center.1680.0.1920.1080" width="1833" height="704" />
+    <size key="GridCell.Tab.1.right.1680.0.1920.1080" width="1833" height="704" />
+    <size key="GridCell.Tab.1.bottom.1680.0.1920.1080" width="1833" height="704" />
+    <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.1680.0.1920.1080" width="889" height="652" />
+    <size key="search.everywhere.popup.0.0.3360.2100@192dpi" width="1340" height="1352" />
+    <size key="GridCell.Tab.0.left.0.0.3360.2100@192dpi" width="3144" height="488" />
+    <size key="GridCell.Tab.0.center.0.0.3360.2100@192dpi" width="3144" height="488" />
+    <size key="GridCell.Tab.0.right.0.0.3360.2100@192dpi" width="3144" height="488" />
+    <size key="GridCell.Tab.0.bottom.0.0.3360.2100@192dpi" width="3144" height="488" />
+    <size key="CommitChangelistDialog2.0.0.3360.2100@192dpi" width="3230" height="2054" />
+    <size key="Vcs.CompareWithSelectedRevision.Popup.1680.0.1920.1080" width="300" height="380" />
+    <size key="find.popup.0.0.3360.2100@192dpi" width="1334" height="1278" />
+    <size key="XDebugger.FullValuePopup.1680.0.1920.1080" width="929" height="528" />
+    <size key="DebuggerActiveHint.1680.0.1920.1080" width="1762" height="445" />
+    <size key="#xdebugger.evaluate.1680.0.1920.1080" width="1427" height="737" />
+    <size key="GridCell.Tab.1.left.0.0.3360.2100@192dpi" width="3144" height="488" />
+    <size key="GridCell.Tab.1.center.0.0.3360.2100@192dpi" width="3144" height="488" />
+    <size key="GridCell.Tab.1.right.0.0.3360.2100@192dpi" width="3144" height="488" />
+    <size key="GridCell.Tab.1.bottom.0.0.3360.2100@192dpi" width="3144" height="488" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.1680.0.1920.1080" width="1071" height="519" />
+    <size key="MergeDialog.0.0.3360.2100@192dpi" width="3228" height="2054" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1812" height="516" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1812" height="516" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1812" height="516" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1812" height="516" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1812" height="396" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1812" height="396" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1812" height="396" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1812" height="396" />
+    <size key="search.everywhere.popup.0.0.1920.1080" width="670" height="676" />
+    <size key="find.popup.0.0.1920.1080" width="816" height="550" />
+    <size key="CommitChangelistDialog2.0.0.1920.1080" width="1856" height="1057" />
+  </component>
+  <component name="WindowManager">
+    <frame x="66" y="23" width="1614" height="1027" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="1781" y="123" width="1648" height="857" key="DiffContextDialog" timestamp="1585850290961" />
+    <state x="1781" y="123" width="1648" height="857" key="DiffContextDialog/3360.2100/1920.1080" timestamp="1585850290962" />
+    <state x="1781" y="123" width="1648" height="857" key="DiffContextDialog@1920.1080" timestamp="1585850290962" />
+    <state x="200" y="246" width="2852" height="1654" key="VCS.FileHistoryDialog" timestamp="1585850290962" />
+    <state x="200" y="246" width="2852" height="1654" key="VCS.FileHistoryDialog/3360.2100" timestamp="1585850290962" />
+    <state x="200" y="246" width="2852" height="1654" key="VCS.FileHistoryDialog@3360.2100@192dpi" timestamp="1585850290962" />
+    <state x="870" y="453" key="WELCOME_SCREEN" timestamp="1587087160837">
+      <screen x="62" y="23" width="1618" height="1027" />
+    </state>
+    <state x="986" y="463" key="WELCOME_SCREEN/1920.109.1680.1027/54.23.1866.1057" timestamp="1585921348083" />
+    <state x="865" y="453" key="WELCOME_SCREEN/51.23.1629.1027" timestamp="1586987031494" />
+    <state x="867" y="453" key="WELCOME_SCREEN/55.23.1625.1027" timestamp="1586188647950" />
+    <state x="870" y="453" key="WELCOME_SCREEN/62.23.1618.1027" timestamp="1587087160837" />
+    <state x="872" y="453" key="WELCOME_SCREEN/65.23.1615.1027" timestamp="1586709003027" />
+    <state x="872" y="453" key="WELCOME_SCREEN/66.23.1614.1027" timestamp="1586741448293" />
+    <state x="2139" y="231" width="1389" height="742" key="dock-window-1" timestamp="1585850290962" />
+    <state x="2139" y="231" width="1389" height="742" key="dock-window-1/3360.2100/1920.1080" timestamp="1585850290962" />
+    <state x="2139" y="231" width="1389" height="742" key="dock-window-1@1920.1080" timestamp="1585850290962" />
+  </component>
+</application>

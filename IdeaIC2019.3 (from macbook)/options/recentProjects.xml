@@ -1,0 +1,39 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/tutorials/springbootexample">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1ZmZYlWztqmND3XmC45Qcy2qe2e">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-193.6911.18" />
+              <option name="buildTimestamp" value="1584436423752" />
+              <frame x="66" y="23" width="1614" height="1027" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1586993448574" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tutorials/java_101">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1Zmgg7h44ARQjaQ6h8RRzGTovIB">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-193.6911.18" />
+              <option name="buildTimestamp" value="1584436425114" />
+              <frame x="64" y="23" width="1856" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1587131869836" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/tutorials" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/tutorials/java_101" />
+        <option value="$USER_HOME$/tutorials/springbootexample" />
+      </list>
+    </option>
+  </component>
+</application>

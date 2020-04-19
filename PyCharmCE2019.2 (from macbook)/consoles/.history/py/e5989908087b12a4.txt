@@ -1,0 +1,13 @@
+import socket
+
+# Machine Specific Config
+machine_name = socket.gethostname()
+
+-. . -..- - / . -. - .-. -.--
+machine_name
+-. . -..- - / . -. - .-. -.--
+names
+-. . -..- - / . -. - .-. -.--
+n
+-. . -..- - / . -. - .-. -.--
+name

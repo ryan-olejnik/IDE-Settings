@@ -1,0 +1,532 @@
+ezra.prostate.models
+-. . -..- - / . -. - .-. -.--
+ezra.prostate
+-. . -..- - / . -. - .-. -.--
+dir(ezra.prostate)
+-. . -..- - / . -. - .-. -.--
+import ezra
+-. . -..- - / . -. - .-. -.--
+ezra.prostate.data
+-. . -..- - / . -. - .-. -.--
+c.net.classname
+-. . -..- - / . -. - .-. -.--
+c.net
+-. . -..- - / . -. - .-. -.--
+self.config.observers
+-. . -..- - / . -. - .-. -.--
+self.config.observers.observer_1
+-. . -..- - / . -. - .-. -.--
+config
+-. . -..- - / . -. - .-. -.--
+self.memory_only
+-. . -..- - / . -. - .-. -.--
+not self.memory_only and self.cleardir
+-. . -..- - / . -. - .-. -.--
+self.cleandir
+-. . -..- - / . -. - .-. -.--
+not self.memory_only
+-. . -..- - / . -. - .-. -.--
+self.cleardir
+-. . -..- - / . -. - .-. -.--
+slices
+-. . -..- - / . -. - .-. -.--
+os.listdir(png_location)
+-. . -..- - / . -. - .-. -.--
+self.config.files.studies.prefix
+-. . -..- - / . -. - .-. -.--
+fmt(self.config.files.png.get_enumeration('input')[0], observer=self.observer, subject=s, index='*'))
+-. . -..- - / . -. - .-. -.--
+fmt(self.config.files.png.get_enumeration('input')[0], observer=self.observer, subject=s, index='*')
+-. . -..- - / . -. - .-. -.--
+fmt(self.config.files.png.get_enumeration('input')[0], study_index=stbject_id, observer=self.observer, subject=s, index='*')
+-. . -..- - / . -. - .-. -.--
+glob.glob(fmt(self.config.files.png.get_enumeration('input')[0], study_index=subject_id, observer=self.observer, subject=s, index='*'))
+-. . -..- - / . -. - .-. -.--
+glob.glob(
+    fmt(
+        self.config.files.png.get_enumeration('input')[0],
+        study_index=subject_id,
+        observer=self.observer,
+        subject=s,
+        index='*'
+    )
+)
+-. . -..- - / . -. - .-. -.--
+fmt(
+    self.config.files.png.get_enumeration('input')[0],
+    study_index=subject_id,
+    observer=self.observer,
+    subject=s,
+    index='*'
+)
+-. . -..- - / . -. - .-. -.--
+fmt(self.config.files.png.get_enumeration('input')[0], study_index=subject_id, observer=self.observer, subject=s, index='*')
+-. . -..- - / . -. - .-. -.--
+input_png_location = fmt(
+    self.config.files.png.get_enumeration('input')[0],
+    study_index=subject_id,
+    observer=self.observer,
+    subject=s,
+    index='*'
+)
+-. . -..- - / . -. - .-. -.--
+input_png_location
+-. . -..- - / . -. - .-. -.--
+glob.glob(input_png_location)
+-. . -..- - / . -. - .-. -.--
+subject_id
+-. . -..- - / . -. - .-. -.--
+subject
+-. . -..- - / . -. - .-. -.--
+fmt(inp, study_index=subject_id, index=idx, observer=self.observer)
+-. . -..- - / . -. - .-. -.--
+self.config.files.png.get_enumeration('input')
+-. . -..- - / . -. - .-. -.--
+label_file = fmt(
+    self.config.files.png.label,
+    study_index=subject_id,
+    observer_name=self.observer,
+    index=idx
+)
+-. . -..- - / . -. - .-. -.--
+self.config.files.png.label
+-. . -..- - / . -. - .-. -.--
+filename
+-. . -..- - / . -. - .-. -.--
+img
+-. . -..- - / . -. - .-. -.--
+self._selected_sampler
+-. . -..- - / . -. - .-. -.--
+self._samplers
+-. . -..- - / . -. - .-. -.--
+sampler = self._samplers[0]
+-. . -..- - / . -. - .-. -.--
+sampler
+-. . -..- - / . -. - .-. -.--
+self._samplers[0]
+-. . -..- - / . -. - .-. -.--
+self._samplers[0].clear()
+-. . -..- - / . -. - .-. -.--
+len(inputs)
+-. . -..- - / . -. - .-. -.--
+zip(0,0)
+-. . -..- - / . -. - .-. -.--
+zip([],[])
+-. . -..- - / . -. - .-. -.--
+len(xy)
+-. . -..- - / . -. - .-. -.--
+self._items
+-. . -..- - / . -. - .-. -.--
+len(zip)
+-. . -..- - / . -. - .-. -.--
+len(zip(['a','b','c'],[1,2,3]))
+-. . -..- - / . -. - .-. -.--
+zip(['a','b','c'],[1,2,3])
+-. . -..- - / . -. - .-. -.--
+for i, j in zip(['a','b','c'],[1,2,3]):
+    print(i,j)
+    
+-. . -..- - / . -. - .-. -.--
+list(zip(['a','b','c'],[1,2,3]))
+-. . -..- - / . -. - .-. -.--
+np.where(self._labels == label_id)
+-. . -..- - / . -. - .-. -.--
+(cols, rows) = np.where(self._labels == label_id)
+-. . -..- - / . -. - .-. -.--
+col
+-. . -..- - / . -. - .-. -.--
+list(zip(['a','b','c'],[1,2,3], ['first', 'second', 'third']))
+-. . -..- - / . -. - .-. -.--
+list(zy)
+-. . -..- - / . -. - .-. -.--
+list(xy)
+-. . -..- - / . -. - .-. -.--
+xy
+-. . -..- - / . -. - .-. -.--
+label
+-. . -..- - / . -. - .-. -.--
+self.config.files
+-. . -..- - / . -. - .-. -.--
+self.config.files.samples
+-. . -..- - / . -. - .-. -.--
+self.config.files.samples.label
+-. . -..- - / . -. - .-. -.--
+size
+-. . -..- - / . -. - .-. -.--
+location
+-. . -..- - / . -. - .-. -.--
+data.shape
+-. . -..- - / . -. - .-. -.--
+data.shape[1]
+-. . -..- - / . -. - .-. -.--
+data.shape[1] - 1
+-. . -..- - / . -. - .-. -.--
+py1:py2
+-. . -..- - / . -. - .-. -.--
+py1
+-. . -..- - / . -. - .-. -.--
+py2
+-. . -..- - / . -. - .-. -.--
+[py1:py2]
+-. . -..- - / . -. - .-. -.--
+type(patch_sample)
+-. . -..- - / . -. - .-. -.--
+patch_sample[py1:py2,px1:px2,:]
+-. . -..- - / . -. - .-. -.--
+data[y1:y2,x1:x2,:]
+-. . -..- - / . -. - .-. -.--
+y1
+-. . -..- - / . -. - .-. -.--
+y2
+-. . -..- - / . -. - .-. -.--
+arr.label
+-. . -..- - / . -. - .-. -.--
+arr_label
+-. . -..- - / . -. - .-. -.--
+arr_label.mean()
+-. . -..- - / . -. - .-. -.--
+fore_min_percent
+-. . -..- - / . -. - .-. -.--
+int(fore_min_percent)
+-. . -..- - / . -. - .-. -.--
+float(fore_min_percent)
+-. . -..- - / . -. - .-. -.--
+decimal
+-. . -..- - / . -. - .-. -.--
+back_max_percent
+-. . -..- - / . -. - .-. -.--
+self._side
+-. . -..- - / . -. - .-. -.--
+x1
+-. . -..- - / . -. - .-. -.--
+self._labels
+-. . -..- - / . -. - .-. -.--
+result[0]
+-. . -..- - / . -. - .-. -.--
+result[0] < 1
+-. . -..- - / . -. - .-. -.--
+x
+-. . -..- - / . -. - .-. -.--
+box
+-. . -..- - / . -. - .-. -.--
+dir(box)
+-. . -..- - / . -. - .-. -.--
+bit.T
+-. . -..- - / . -. - .-. -.--
+box.T
+-. . -..- - / . -. - .-. -.--
+return False
+-. . -..- - / . -. - .-. -.--
+result
+-. . -..- - / . -. - .-. -.--
+my
+-. . -..- - / . -. - .-. -.--
+np.mean(list(coords), axis=0)
+-. . -..- - / . -. - .-. -.--
+cols
+-. . -..- - / . -. - .-. -.--
+np.mean.__doc__
+-. . -..- - / . -. - .-. -.--
+coords
+-. . -..- - / . -. - .-. -.--
+np.mean(coords, axis=0)
+-. . -..- - / . -. - .-. -.--
+np.mean(zip(cols, rows), axis=0)
+-. . -..- - / . -. - .-. -.--
+theset
+-. . -..- - / . -. - .-. -.--
+itm[0]
+-. . -..- - / . -. - .-. -.--
+total_size
+-. . -..- - / . -. - .-. -.--
+local_path
+-. . -..- - / . -. - .-. -.--
+patient_full_id
+-. . -..- - / . -. - .-. -.--
+patient_full_id[1]
+-. . -..- - / . -. - .-. -.--
+patient_root_folder
+-. . -..- - / . -. - .-. -.--
+'EzraData' in patient_root_folder
+-. . -..- - / . -. - .-. -.--
+ezradata_root_folder
+-. . -..- - / . -. - .-. -.--
+Patient
+-. . -..- - / . -. - .-. -.--
+itm
+-. . -..- - / . -. - .-. -.--
+get_entire_set(config.root.TRAIN_SET)
+-. . -..- - / . -. - .-. -.--
+len(patient_list_train)
+-. . -..- - / . -. - .-. -.--
+len(patient_list_val)
+-. . -..- - / . -. - .-. -.--
+config.root
+-. . -..- - / . -. - .-. -.--
+int(config.files.studies.limit)
+-. . -..- - / . -. - .-. -.--
+med_patient_list[0].list_studies()
+-. . -..- - / . -. - .-. -.--
+med_patient.display()
+-. . -..- - / . -. - .-. -.--
+med_patient_list[0].consensus
+-. . -..- - / . -. - .-. -.--
+med_patient.display(study_instance_uid, series_instance_uid)
+-. . -..- - / . -. - .-. -.--
+metadata = med_patient.get_series_metadata(study_instance_uid, series_instance_uid)
+-. . -..- - / . -. - .-. -.--
+metadata[0]
+-. . -..- - / . -. - .-. -.--
+type(metadata)
+-. . -..- - / . -. - .-. -.--
+metadata.keys()
+-. . -..- - / . -. - .-. -.--
+metadata['PerPixel_Binary']
+-. . -..- - / . -. - .-. -.--
+metadata['PerPixel_Binary'].keys()
+-. . -..- - / . -. - .-. -.--
+metadata['PerPixel_Binary']['Prostate_Organ']
+-. . -..- - / . -. - .-. -.--
+metadata['PerPixel_Binary']['Prostate_Organ'].keys()
+-. . -..- - / . -. - .-. -.--
+for observer in metadata['PerPixel_Binary']['Prostate_Organ'].keys():
+    print('observer')
+    
+-. . -..- - / . -. - .-. -.--
+for observer in metadata['PerPixel_Binary']['Prostate_Organ'].keys():
+    print(observer)
+    
+-. . -..- - / . -. - .-. -.--
+len(med_patient_list)
+-. . -..- - / . -. - .-. -.--
+patient_list_total = patient_list_total[400:405]
+-. . -..- - / . -. - .-. -.--
+len(patient_list_total)
+-. . -..- - / . -. - .-. -.--
+patient_list_total
+-. . -..- - / . -. - .-. -.--
+series_metadata['PerPixel_Binary']['Prostate_Organ'].keys()
+-. . -..- - / . -. - .-. -.--
+med_patient.get_series_metadata(study_instance_uid, series_instance_uid)['PerPixel_Binary']['Prostate_Organ'].keys()
+-. . -..- - / . -. - .-. -.--
+med_patient.get_series_metadata(study_instance_uid, series_instance_uid)
+-. . -..- - / . -. - .-. -.--
+from data_manager.dataset_loaders.base_loader import (
+    Prostate_Organ,
+    Prostate_Lesion,
+    PerPixel_Binary
+)
+-. . -..- - / . -. - .-. -.--
+med_patient.get_series_metadata(study_instance_uid, series_instance_uid)[PerPixel_Binary]
+-. . -..- - / . -. - .-. -.--
+med_patient.get_series_metadata(study_instance_uid, series_instance_uid)[PerPixel_Binary][roi_type]
+-. . -..- - / . -. - .-. -.--
+med_patient.get_series_metadata(study_instance_uid, series_instance_uid)[PerPixel_Binary][roi_type].keys()
+-. . -..- - / . -. - .-. -.--
+group.items()
+-. . -..- - / . -. - .-. -.--
+group.items()[0]
+-. . -..- - / . -. - .-. -.--
+list(group.items())[0]
+-. . -..- - / . -. - .-. -.--
+list(group.items())[0][1]
+-. . -..- - / . -. - .-. -.--
+group_metadata['study']
+-. . -..- - / . -. - .-. -.--
+series_tag
+-. . -..- - / . -. - .-. -.--
+group_metadata
+-. . -..- - / . -. - .-. -.--
+list(group.items())
+-. . -..- - / . -. - .-. -.--
+full_observer_list
+-. . -..- - / . -. - .-. -.--
+config.observers.values()
+-. . -..- - / . -. - .-. -.--
+med_patient_list[0]
+-. . -..- - / . -. - .-. -.--
+len(group_list)
+-. . -..- - / . -. - .-. -.--
+len(list(group.items()))
+-. . -..- - / . -. - .-. -.--
+group_item
+-. . -..- - / . -. - .-. -.--
+for obs in latest_observers:
+    print(obs)
+    
+-. . -..- - / . -. - .-. -.--
+len(latest_observers)
+-. . -..- - / . -. - .-. -.--
+roi_type
+-. . -..- - / . -. - .-. -.--
+latest_observers
+-. . -..- - / . -. - .-. -.--
+series_nrrd_destination_folder
+-. . -..- - / . -. - .-. -.--
+destination_folder
+-. . -..- - / . -. - .-. -.--
+med_patient
+-. . -..- - / . -. - .-. -.--
+study_instance_uid
+-. . -..- - / . -. - .-. -.--
+series_instance_uid
+-. . -..- - / . -. - .-. -.--
+series_type == labelled_series
+-. . -..- - / . -. - .-. -.--
+series_type
+-. . -..- - / . -. - .-. -.--
+group_list
+-. . -..- - / . -. - .-. -.--
+med_patient.patient_id
+-. . -..- - / . -. - .-. -.--
+f'Processing patient: {med_patient.patient_id}'
+-. . -..- - / . -. - .-. -.--
+series_metadata
+-. . -..- - / . -. - .-. -.--
+series_metadata.keys()
+-. . -..- - / . -. - .-. -.--
+series_metadata['EzraSeriesType']
+-. . -..- - / . -. - .-. -.--
+name
+-. . -..- - / . -. - .-. -.--
+observer is None
+-. . -..- - / . -. - .-. -.--
+group[Prostate_Axial_T2]
+-. . -..- - / . -. - .-. -.--
+group[Prostate_Axial_T2]['study']
+-. . -..- - / . -. - .-. -.--
+med_patient.list_items_in_group(target_group_type)
+-. . -..- - / . -. - .-. -.--
+len(med_patient.list_items_in_group(target_group_type))
+-. . -..- - / . -. - .-. -.--
+target_series_metadata
+-. . -..- - / . -. - .-. -.--
+target_series_metadata.keys()
+-. . -..- - / . -. - .-. -.--
+target_series_metadata['SeriesDescription']
+-. . -..- - / . -. - .-. -.--
+group
+-. . -..- - / . -. - .-. -.--
+group.keys()
+-. . -..- - / . -. - .-. -.--
+self.locate_inputs()
+-. . -..- - / . -. - .-. -.--
+self.locattion
+-. . -..- - / . -. - .-. -.--
+self.location
+-. . -..- - / . -. - .-. -.--
+self._observer
+-. . -..- - / . -. - .-. -.--
+labels_file_location = f"{self.location}/observers/*/nrrd"
+-. . -..- - / . -. - .-. -.--
+FileManager.is_file_available(labels_file_location, _file)
+-. . -..- - / . -. - .-. -.--
+self.labels_file
+-. . -..- - / . -. - .-. -.--
+self.lesions_file
+-. . -..- - / . -. - .-. -.--
+self.segmentation_file
+-. . -..- - / . -. - .-. -.--
+self._name
+-. . -..- - / . -. - .-. -.--
+y
+-. . -..- - / . -. - .-. -.--
+labels_file_location
+-. . -..- - / . -. - .-. -.--
+FileManager.get_files_like(labels_file_location)
+-. . -..- - / . -. - .-. -.--
+FileManager.get_files_like(labels_file_location, '*')
+-. . -..- - / . -. - .-. -.--
+FileManager.get_files_like(labels_file_location, '.nrrd')
+-. . -..- - / . -. - .-. -.--
+FileManager.get_files_like('.nrrd', labels_file_location)
+-. . -..- - / . -. - .-. -.--
+FileManager.get_files_like('*', labels_file_location)
+-. . -..- - / . -. - .-. -.--
+glob.glob(self._location, '*')
+-. . -..- - / . -. - .-. -.--
+glob.glob(self._location)
+-. . -..- - / . -. - .-. -.--
+glob.glob('/Users/ryanolejnik/ezra/machine_learning/pipeline/organ/studies/STUDY-0/observers/*')
+-. . -..- - / . -. - .-. -.--
+os.walk(self._location)
+-. . -..- - / . -. - .-. -.--
+list(os.walk(self._location))
+-. . -..- - / . -. - .-. -.--
+[x[0] for x in os.walk(self._location)]
+-. . -..- - / . -. - .-. -.--
+next(os.walk(self._location))[1]
+-. . -..- - / . -. - .-. -.--
+next(os.walk(f"{self._location}/observers"))[1]
+-. . -..- - / . -. - .-. -.--
+next(os.walk(f"{self._location}/observers"))[1][0]
+-. . -..- - / . -. - .-. -.--
+os.scandir(f"{self._location}/observers")
+-. . -..- - / . -. - .-. -.--
+list(os.scandir(f"{self._location}/observers"))
+-. . -..- - / . -. - .-. -.--
+[ f.path for f in os.scandir(f"{self._location}/observers") ]
+-. . -..- - / . -. - .-. -.--
+[ f for f in os.scandir(f"{self._location}/observers") ]
+-. . -..- - / . -. - .-. -.--
+a = [ f for f in os.scandir(f"{self._location}/observers") ]
+-. . -..- - / . -. - .-. -.--
+a[0]
+-. . -..- - / . -. - .-. -.--
+a[1]
+-. . -..- - / . -. - .-. -.--
+a[1].name
+-. . -..- - / . -. - .-. -.--
+a = [ folder.name for folder in os.scandir(f"{self._location}/observers") ]
+-. . -..- - / . -. - .-. -.--
+a = [ folder.name for folder in os.scandir(f"{self._location}/observers") if folder.name != '.DS_Store']
+-. . -..- - / . -. - .-. -.--
+a
+-. . -..- - / . -. - .-. -.--
+observer
+-. . -..- - / . -. - .-. -.--
+subject.observer
+-. . -..- - / . -. - .-. -.--
+c.files.samples
+-. . -..- - / . -. - .-. -.--
+c.files.samples.location
+-. . -..- - / . -. - .-. -.--
+self.config.files.png.location
+-. . -..- - / . -. - .-. -.--
+fmt(self.config.files.png.location, observer=self.observer)
+-. . -..- - / . -. - .-. -.--
+subjects
+-. . -..- - / . -. - .-. -.--
+self._list_subject_ids
+-. . -..- - / . -. - .-. -.--
+study_idnex
+-. . -..- - / . -. - .-. -.--
+from ezra.research.config import get_current_config
+-. . -..- - / . -. - .-. -.--
+config = get_current_config()
+-. . -..- - / . -. - .-. -.--
+config.files.observers.location
+-. . -..- - / . -. - .-. -.--
+config.files.observers.location.format(study_index=study_index)
+-. . -..- - / . -. - .-. -.--
+config.files.observers.location.format(study_index=study_idnex)
+-. . -..- - / . -. - .-. -.--
+config.files.studies.location
+-. . -..- - / . -. - .-. -.--
+import os
+-. . -..- - / . -. - .-. -.--
+inp
+-. . -..- - / . -. - .-. -.--
+fmt(inp, study_index=subject_id, index=idx)
+-. . -..- - / . -. - .-. -.--
+self.observer
+-. . -..- - / . -. - .-. -.--
+s
+-. . -..- - / . -. - .-. -.--
+get_subject_id(s)
+-. . -..- - / . -. - .-. -.--
+study_id = get_subject_id(s)
+-. . -..- - / . -. - .-. -.--
+get_observer_of_study(study_id)
+-. . -..- - / . -. - .-. -.--
+label_file

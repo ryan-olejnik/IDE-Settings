@@ -1,0 +1,246 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/ezra/prostate_ai" />
+        <option value="$USER_HOME$/ezra/ai" />
+        <option value="$USER_HOME$/ezra/research" />
+        <option value="$USER_HOME$/ezra/iceberg" />
+        <option value="$USER_HOME$/ezra/ice_manager_backend" />
+        <option value="$USER_HOME$/ezra/pie" />
+        <option value="$USER_HOME$/ezra/docker_images" />
+        <option value="$USER_HOME$/ezra/sense" />
+        <option value="$USER_HOME$/ezra/raven" />
+        <option value="$USER_HOME$/tutorials/python_migration" />
+        <option value="$USER_HOME$/paddle/paddleservices" />
+        <option value="$USER_HOME$/ezra/ice_v1" />
+        <option value="$USER_HOME$/ezra/QA" />
+        <option value="$USER_HOME$/ezra/ice_manager" />
+        <option value="$USER_HOME$/ezra/read_dicom_files" />
+        <option value="$USER_HOME$/ezra/pqs" />
+        <option value="$USER_HOME$/ezra/plexo-log" />
+        <option value="$USER_HOME$/tutorials/flask-restplus" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/ezra/prostate_ai" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/ezra/prostate_ai" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/ezra/QA">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6817.19" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1578078921446" />
+              <option name="buildTimestamp" value="1569401394894" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/ai">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6817.19" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1584843773189" />
+              <option name="buildTimestamp" value="1569401349194" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/docker_images">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6817.19" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1582907344644" />
+              <option name="buildTimestamp" value="1569401393220" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/ice3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6817.19" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1582642100642" />
+              <option name="buildTimestamp" value="1569401391210" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/ice_manager">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6817.19" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1575497149790" />
+              <option name="buildTimestamp" value="1569401374254" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/ice_manager_backend">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6817.19" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1583340287820" />
+              <option name="buildTimestamp" value="1569401362609" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/ice_v1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6817.19" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1578427096731" />
+              <option name="buildTimestamp" value="1569401357436" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/iceberg">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6817.19" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1583419251923" />
+              <option name="buildTimestamp" value="1569401374721" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/pie">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6817.19" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1582928971673" />
+              <option name="buildTimestamp" value="1569401393220" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/plexo-log">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6817.19" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1573767716080" />
+              <option name="buildTimestamp" value="1569401340124" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/pqs">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6817.19" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1575069580900" />
+              <option name="buildTimestamp" value="1569401374254" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/prostate_ai">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6817.19" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1587327367867" />
+              <option name="buildTimestamp" value="1569401344200" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/raven">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6817.19" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1579905920978" />
+              <option name="buildTimestamp" value="1569401357436" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/read_dicom_files">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6817.19" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1575402984803" />
+              <option name="buildTimestamp" value="1569401374254" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/research">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6817.19" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1584843754106" />
+              <option name="buildTimestamp" value="1569401349194" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ezra/sense">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6817.19" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1582572595782" />
+              <option name="buildTimestamp" value="1569401391210" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/paddle/paddleservices">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6817.19" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1579621031473" />
+              <option name="buildTimestamp" value="1569401357436" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tutorials/flask-restplus">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6817.19" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1572901718245" />
+              <option name="buildTimestamp" value="1569401369179" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tutorials/python_migration">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6817.19" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1579621122181" />
+              <option name="buildTimestamp" value="1569401357436" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

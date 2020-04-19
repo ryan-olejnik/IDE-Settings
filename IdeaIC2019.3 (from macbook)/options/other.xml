@@ -1,0 +1,125 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>EditorConfig</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Internationalization</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>requirements.txt</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>DuplicatedInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="7-137-148-255,,,16-206-208-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.47706422" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.5813953" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="IJ_BASE_PACKAGE" value="com.ryan" />
+    <property name="InstalledPluginsSearchHistory" value="live" />
+    <property name="KEYMAP" value="next tab" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="true" />
+    <property name="PACKAGE_FILTER" value="configparser&#10;sshtunnel" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="RegistryRecentKeys" value="compiler.automake.allow.when.app.running" />
+    <property name="RunConfigurable.dividerProportion" value="0.24450812" />
+    <property name="SHELLCHECK.PATH" value="I do mind" />
+    <property name="SettingsSearchHistory" value="comp&#10;key bindings&#10;keym&#10;inter&#10;config" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.chooser.recent.files" value="/opt/anaconda3/envs/pie/bin/python&#10;/opt/anaconda3/envs/prostate_ai/bin/python" />
+    <property name="file.gist.reindex.count" value="53096" />
+    <property name="fileTypeChangedCounter" value="6" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.61-release-IJ2019.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="14" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.61-release-IJ2019.3-1:2019-11-26" />
+    <property name="lastTip" value="2" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1586890354207" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="selected.color.option.type" value="TEXT" />
+    <property name="settings.code.style.selected.tab.Python" value="Tabs and Indents" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.49247175" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="/opt/anaconda3/envs/ice3/bin/python" value="true" />
+        <entry key="/opt/anaconda3/envs/iceberg-test/bin/python" value="true" />
+        <entry key="/opt/anaconda3/envs/iceberg/bin/python" value="true" />
+        <entry key="/opt/anaconda3/envs/pie/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/prostate_ai/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/prostate_ai_p2.7/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/sense-local/bin/python" value="false" />
+        <entry key="/usr/bin/python2.7" value="false" />
+        <entry key="/usr/local/bin/python3.7" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="/opt/anaconda3/envs/ice3/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/iceberg-test/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/iceberg/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/pie/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/prostate_ai/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/prostate_ai_p2.7/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/sense-local/bin/python" value="false" />
+        <entry key="/usr/bin/python2.7" value="false" />
+        <entry key="/usr/local/bin/python3.7" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="/opt/anaconda3/envs/ice3/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/iceberg-test/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/iceberg/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/pie/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/prostate_ai/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/prostate_ai_p2.7/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/sense-local/bin/python" value="false" />
+        <entry key="/usr/bin/python2.7" value="false" />
+        <entry key="/usr/local/bin/python3.7" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

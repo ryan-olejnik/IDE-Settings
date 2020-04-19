@@ -1,0 +1,500 @@
+cd ezra/
+mkdir EzraData
+cd EzraData/
+[wd
+pwd
+cd .ssh
+cd
+cd .ssh/
+;ls
+ls
+cat ryans-pc.pem 
+cat ryans-pc.pem 
+ssh ubuntu@plexo-log.ezra.com
+ssh ubuntu@dev-log.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-log.ezra.com
+cd
+cd Documents/
+ks
+cd
+cd ezra/EzraData/
+ls
+pwd
+ls
+mkdir training_set
+ls
+cd ..
+ls
+cd EzraData/
+;s
+ls
+cd training_set/
+pwd
+pwed
+pwd
+ls
+sudo easy_install pip
+sudo pip install --upgrade pip
+cd ..
+cd JEREMY\ MCGALE/
+pwd
+cd
+cd ezra/EzraData/
+;s
+ls
+ls
+cd subjects/
+ls
+cd ..
+cd saved_figures/
+pwd
+cd ..
+ls
+pwd
+python
+ls
+cat employee_file2.csv 
+ls
+cat KL_outputs.csv 
+cat KL_outputs.csv 
+rm KL_outputs.csv 
+cat KL_outputs.csv 
+cat KL_outputs.csv 
+rm KL_outputs.csv 
+cat KL_outputs.csv 
+rm KL_outputs.csv 
+cat KL_outputs.csv 
+xdg-open KL_outputs.csv 
+rm KL_outputs.csv 
+cat KL_outputs.csv 
+rm KL_outputs.csv 
+ls
+rm KL_outputs.csv 
+cat KL_outputs.csv 
+rm KL_outputs.csv 
+cat KL_outputs.csv 
+python
+rm KL_outputs.csv 
+cat KL_outputs.csv 
+cat KL_outputs.csv 
+rm KL_outputs.csv 
+rm KL_outputs.csv 
+rm KL_outputs.csv 
+cat KL_outputs.csv 
+rm KL_outputs.csv 
+cat KL_outputs.csv 
+cat KL_outputs.csv 
+rm KL_outputs.csv 
+rm KL_outputs.csv 
+rm KL_outputs.csv 
+cat KL_outputs.csv 
+ls
+rm employee_file2.csv 
+rm test.csv 
+cat KL_outputs.csv 
+rm KL_outputs.csv 
+rm KL_outputs.csv 
+python
+rm KL_outputs.csv 
+python
+rm KL_outputs.csv 
+rm KL_outputs.csv 
+which python
+which python3
+python
+ls
+rm KL_outputs.csv 
+ls
+cd rm KL_outputs.csv 
+sudo rm KL_outputs.csv 
+ls
+ls
+car series_not_found.csv 
+cat series_not_found.csv 
+ls
+cat series_not_found.csv 
+cat series_not_found.csv 
+cat series_not_found.csv 
+rm series_not_found.csv 
+rm KL_outputs.csv 
+rm KL_outputs.csv 
+rm KL_outputs.csv 
+rm series_not_found.csv 
+rm KL_outputs.csv 
+rm series_not_found.csv 
+rm KL_outputs.csv 
+rm series_not_found.csv 
+ls
+rm series_not_found.csv 
+rm KL_outputs.csv 
+pip install pandas
+pip3 install pandas
+cd ..
+ls
+mkdir kl-divergence
+cd kl-divergence/
+code .
+python
+python3
+python
+python3
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@uat-plexo.ezra.com
+/usr/local/opt/python/bin/python3.7
+                kl_value))
+                kl_value))
+                kl_value))
+python3 kl_divergence/KL-Divergence.py 
+python3 kl_divergence/KL-Divergence.py 
+python3 kl_divergence/KL-Divergence.py 
+python3 kl_divergence/KL-Divergence.py 
+python3 kl_divergence/KL-Divergence.py 
+git init
+python3 scripts/update_metadata_table.py 
+python3 scripts/update_metadata_table.py 
+python3 scripts/update_metadata_table.py 
+python3 scripts/update_metadata_table.py 
+python3 scripts/update_metadata_table.py 
+python3 scripts/update_metadata_table.py 
+python3 scripts/update_metadata_table.py 
+python3 scripts/update_metadata_table.py 
+python3 scripts/update_metadata_table.py 
+python3 scripts/update_metadata_table.py 
+python3 scripts/update_metadata_table.py 
+python3 scripts/update_metadata_table.py 
+python3 scripts/update_metadata_table.py 
+python3 scripts/update_metadata_table.py 
+python3 scripts/update_metadata_table.py 
+python3 scripts/update_metadata_table.py 
+python3 scripts/update_metadata_table.py 
+python3 scripts/update_metadata_table.py 
+python3 kl_divergence/KL-Divergence.py 
+python3 scripts/update_metadata_table.py 
+ls
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+ls
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+cd ..
+ls
+python3 kl-divergence/DICOM_downloader/bulk_DICOM_downloader.py 
+cd kl-divergence/
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+~
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py 
+python3 DICOM_downloader/bulk_DICOM_downloader.py
+python3 DICOM_downloader/bulk_DICOM_downloader.py
+python3 DICOM_downloader/bulk_DICOM_downloader.py
+python3 DICOM_downloader/bulk_DICOM_downloader.py
+python3 DICOM_downloader/bulk_DICOM_downloader.py
+python3 DICOM_downloader/bulk_DICOM_downloader.py
+python3 DICOM_downloader/bulk_DICOM_downloader.py
+python3 DICOM_downloader/bulk_DICOM_downloader.py
+python3 DICOM_downloader/bulk_DICOM_downloader.py
+python3 DICOM_downloader/bulk_DICOM_downloader.py
+python3 DICOM_downloader/bulk_DICOM_downloader.py
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 kl_divergence/calc_kl_divergence.py 
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 scripts/update_metadata_table.py 
+git log
+git status
+git commit --amend
+git log
+ls
+ls
+python3 test.py 
+python3 test.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+ls
+python3 kl_divergence/KL-Divergence.py 
+python kl_divergence/KL-Divergence.py 
+python kl_divergence/KL-Divergence.py 
+python -m kl_divergence/KL-Divergence
+python3 -m kl_divergence/KL-Divergence
+python kl_divergence/KL-Divergence.py 
+python kl_divergence/KL-Divergence.py 
+python3 kl_divergence/KL-Divergence.py 
+python3 kl_divergence/KL-Divergence.py 
+python3 kl_divergence/KL-Divergence.py 
+python3 kl_divergence/KL-Divergence.py 
+pip3 install scipy
+pip3 install scipy
+python3 kl_divergence/KL-Divergence.py 
+python3 kl_divergence/KL-Divergence.py 
+python3 kl_divergence/KL-Divergence.py 
+python3 kl_divergence/KL-Divergence.py 
+python3 kl_divergence/KL-Divergence.py 
+python3 kl_divergence/KL-Divergence.py 
+python3 kl_divergence/KL-Divergence.py 
+python3 kl_divergence/KL-Divergence.py 
+python3 kl_divergence/KL-Divergence.py 
+python3 kl_divergence/KL-Divergence.py 
+python3 kl_divergence/KL-Divergence.py 
+python3 get_names.py 
+python3 get_names.py 
+python3 get_names.py 
+python3 get_names.py 
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@uat-plexo.ezra.com
+python3
+history
+ssh ubuntu@uat-plexo.ezra.com
+ssh ubunty@dev-plexo.ezra.com
+ssh ubuntu@dev-plexo.ezra.com
+ssh ubuntu@uat-plexo.ezra.com
+cd ezra/plexo/
+npm start
+npm start
+python3
+cd ezra/kl-divergence/
+ls
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 -m DICOM_downloader.bulk_DICOM_downloader
+python3 -m DICOM_downloader.bulk_DICOM_downloader
+python3 -m DICOM_downloader.bulk_DICOM_downloader
+ls
+python3
+ls
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+ cd
+cd Desktop/
+ls
+cd Example-full-body/
+python3 upload.py 
+ipi3 install httplib2
+pip3 install httplib2
+python3 upload.py 
+python3 upload.py 
+pwd
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+ls
+cd 1182565LHR\ GOLIO\ FERNANDEZ\ MADELYN\ MS/
+ls
+cd 1013082591\ MR\ BODY\ EZRA/
+ls
+cd MR\ 
+cd MR AX MPR
+cd MR\AX\MPR
+cd MR\ AX\ MPR
+ls
+pwd
+pwd
+pwd
+cd
+cd
+la
+ls
+cd Desktop/Example-full-body/
+ls
+python3 upload.py 
+history
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+python3 upload.py http://ec2co-ecsel-1dojnic5pnhdt-1024184059.us-east-2.elb.amazonaws.com 8042 /Users/ryanolejnik/Desktop/Example-full-body orthanc orthanc
+cd
+ssh -i .ssh/ryans-pc.pem ubuntu@18.222.21.177
+ssh -i .ssh/ryans-pc.pem ubuntu@18.222.21.177
+scp -i ~/.ssh/ryans-pc.pem ubuntu@18.191.243.80:/home/ubuntu/Configuration.json ~/Configuration.json
+ls
+ls
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 -m kl_divergence.calc_kl_divergence
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+python3 main.py 
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@18.191.243.80
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@18.191.243.80
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@18.191.243.80
+ssh -i ~/.ssh/ezra-dl-keys.pem ubuntu@alon-plexo.ezra.com
+ssh ubuntu@http://18.222.21.177/
+ssh ubuntu@18.222.21.177/
+ssh -t ~/.ssh/ryans-pc.pem ubuntu@18.222.21.177/
+ssh -t ~/.ssh/ryans-pc.pem ubuntu@18.222.21.177
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@18.222.21.177
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@18.222.21.177
+ssh -i ~/.ssh/ezra-dl-keys.pem ubuntu@172.31.69.188
+ssh -i ~/.ssh/ezra-dl-keys.pem ubuntu@172.31.69.188
+curl www.google.ca
+ssh -i ~/.ssh/ezra-dl-keys.pem ubuntu@172.31.69.188
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-plexo.ezra.com
+ssh -i ~/.ssh/ezra-dl-keys.pem ubuntu@uat-sense.ezra.com
+python3
+ssh -i ~/.ssh/ezra-dl-keys.pem ubuntu@uat-sense.ezra.com
+ssh -i ~/.ssh/ezra-dl-keys.pem ubuntu@uat-sense.ezra.com
+python3
+cd ezra/raven/
+ssh -i ~/.ssh/ezra-dl-keys.pem ubuntu@alon-plexo.ezra.com
+git status
+git status
+git push
+git pull
+git push
+git push
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+python
+vi test.py
+python3 test.py
+rm test.py
+python3 me
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+history
+python3 -m meta_check.meta_scrape --db_user root --db_password password
+python3 -m meta_check.meta_scrape --db_user root --db_password password
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+ls
+ls
+python3 -m meta_check.meta_scrape
+git fetch
+git status
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape
+python3 -m meta_check.meta_scrape

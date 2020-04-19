@@ -1,0 +1,108 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>EditorConfig</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Internationalization</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>requirements.txt</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>DuplicatedInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="7-137-148-255,,,16-206-208-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.3553459" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.7472119" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="InstalledPluginsSearchHistory" value="live" />
+    <property name="PACKAGE_FILTER" value="configparser&#10;sshtunnel" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="RunConfigurable.dividerProportion" value="0.24450812" />
+    <property name="SHELLCHECK.PATH" value="I do mind" />
+    <property name="SettingsSearchHistory" value="reposi&#10;inter&#10;config&#10;right margin&#10;key" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="file.chooser.recent.files" value="/opt/anaconda3/envs/pie/bin/python&#10;/opt/anaconda3/envs/prostate_ai/bin/python" />
+    <property name="file.gist.reindex.count" value="53085" />
+    <property name="fileTypeChangedCounter" value="6" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="lastTip" value="2" />
+    <property name="selected.color.option.type" value="TEXT" />
+    <property name="settings.code.style.selected.tab.Python" value="Tabs and Indents" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.49247175" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="/opt/anaconda3/envs/ice3/bin/python" value="true" />
+        <entry key="/opt/anaconda3/envs/iceberg-test/bin/python" value="true" />
+        <entry key="/opt/anaconda3/envs/iceberg/bin/python" value="true" />
+        <entry key="/opt/anaconda3/envs/pie/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/prostate_ai/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/prostate_ai_p2.7/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/sense-local/bin/python" value="false" />
+        <entry key="/usr/bin/python2.7" value="false" />
+        <entry key="/usr/local/bin/python3.7" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="/opt/anaconda3/envs/ice3/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/iceberg-test/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/iceberg/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/pie/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/prostate_ai/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/prostate_ai_p2.7/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/sense-local/bin/python" value="false" />
+        <entry key="/usr/bin/python2.7" value="false" />
+        <entry key="/usr/local/bin/python3.7" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="/opt/anaconda3/envs/ice3/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/iceberg-test/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/iceberg/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/pie/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/prostate_ai/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/prostate_ai_p2.7/bin/python" value="false" />
+        <entry key="/opt/anaconda3/envs/sense-local/bin/python" value="false" />
+        <entry key="/usr/bin/python2.7" value="false" />
+        <entry key="/usr/local/bin/python3.7" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

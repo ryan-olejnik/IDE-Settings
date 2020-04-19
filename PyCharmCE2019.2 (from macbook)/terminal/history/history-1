@@ -1,0 +1,500 @@
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-plexo.ezra.com
+l
+cd workshops/
+cd jsWorkshop/
+code .
+cd
+cd ezra/plexo/
+npm start
+npm start
+npm start
+npm start
+ls
+rm node_modules/
+rm -r node_modules/
+sudo rm -r node_modules/
+npm install
+sudo chown -R $USER:$GROUP ~/.npm
+sudo chown -R $USER:$GROUP ~/.config
+npm install
+npm start
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@18.188.192.6
+ls
+cd ezra/ohif-viewer/
+npm start
+whoami
+whoami
+$USER
+echo $USER
+echo $GROUP
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@18.188.192.6
+ssh ubuntu@uat-sense.ezra.com
+ssh -i ~/.ssh/ezra.pem ubuntu@uat-sense.ezra.com
+ssh -i ~/.ssh/ezra.pem ubuntu@dev-sense.ezra.com
+ssh -i ~/.ssh/ezra.pem ubuntu@dev-sense.ezra.com
+ssh -i ~/.ssh/ezra.pem  ubuntu@uat-plexo.com
+ssh -i ~/.ssh/ezra.pem  ubuntu@uat-plexo.ezra.com
+ssh -i ~/.ssh/ezra-dl-keys.pem  ubuntu@uat-plexo.ezra.com
+ssh -i ~/.ssh/ezra-dl-keys.pem  ubuntu@uat-sense.ezra.com
+ssh -i ~/.ssh/ezra-dl-keys.pem  ubuntu@uat-sense.ezra.com
+ssh -i ~/.ssh/ezra.pem  ubuntu@dev-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem.pem  ubuntu@dev-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem  ubuntu@dev-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem  ubuntu@dev-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem  ubuntu@dev-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem  ubuntu@http://3.13.198.95/
+ssh -i ~/.ssh/ryans-pc.pem  ubuntu@3.13.198.95
+ssh -i ~/.ssh/ryans-pc.pem  ubuntu@uat-plexo.ezra.com
+ls
+cd ezra/
+git clone git@github.com:ezraai/ohif-core-fork.git
+cd ohif-core-fork/
+ls
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm install
+npm start
+sudo docker run -p 4242:4242 -p 8042:8042 --rm jodogne/orthanc
+docker ps
+docker ps -a
+docker ps -a
+docker ps -la
+docker ps --help
+docker ps
+docker kill d19e4f2693c7
+docker ps
+docker exec bash 218d06691201 bash
+docker exec
+docker ps
+docker exec -it 9e4f706ecb97 bash
+node -v
+node -v
+cd ezra/
+cd ..
+ls
+cd tutorials/
+mkdir docker-test
+cd docker-test/
+sudo vi Dockerfile
+docker-compose up
+docker run
+sudo vi docker-compose.yml
+docker-compose up
+ls
+cat docker-compose.yml 
+sudo vi Dockerfile 
+sudo mv Dockerfile Dockerfile_backup
+sudo vi Dockerfile
+docker-compose up --build
+docker ps
+ls
+cat Dockerfile_backup 
+docker ps -a
+sudo vi Dockerfile
+docker-compose up --build
+sudo vi Dockerfile
+docker ps
+cd ezra/plexo/
+ls
+cd src/
+ls
+cd ..
+ls -a
+cd ..
+cd dockerized-plexo/
+ls
+ls -a
+cd ..
+sudo cp plexo/.env dockerized-plexo/.env
+sudo cp plexo/.env.example dockerized-plexo/.env.example
+cd dockerized-plexo/
+car .env
+cat .env
+docker ps
+docker exec -it d19e4f2693c7 bash
+docker exec -it d19e4f2693c7 bash
+docker ps
+docker exec -it 6e95137a253a bash
+docker ps
+docker exec -it 818941feb842 bash
+docker ps
+docker exec -it e9457b7354ab bash
+node -v
+docker ps
+docker exec -it 88ca9ebc860f bash
+docker ps
+docker exec -it  bash
+docker exec -it 5989783f4dd0 bash
+git diff
+git push
+git checkout ryan
+git checkout -b ryan
+git log
+git push
+git push --set-upstream origin ryan
+git push --set-upstream origin ryan
+git push
+npm publish
+npm login
+npm login
+npm publish
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-plexo.ezra.com
+docker ps
+docker kill 218d06691201
+docker kill e9457b7354ab
+docker ps -a
+docker docker system prune
+docker system prune
+docker system prune --volumes
+docker ps -a
+docker ps
+docker inspect <container-uid> | grep IPAddress
+docker ps
+docker inspect a5dc7d582a85 | grep IPAddress
+docker-compose -d
+docker-compose up --help
+docker ps
+docker exec -it 22245e95c15e bash
+dicker ps
+docker ps
+docker exec -it f52a5cd384bb bash
+docker ps
+docker exec -it 8557cb53ada1 bash
+docker ps
+docker exec -it 8d57a450a644 bash
+docker ps
+docker exec -it 0e92ea86fd2c bash
+cd ezra/plexo/
+npm run buils
+npm run build
+docker ps
+docker exec -it d394707bd5c2 bash
+npm run build
+npm run build
+npm run build
+npm run build
+cd ezra/plexo/
+npm run build
+ls
+docker push ryanolejnik/plexo
+docker images
+sudo vi ~/.ssh/config
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-plexo.ezra.com
+docker ps
+docker ps
+docker exec -it d2e8b6f3755c bash
+cd ezra/plexo/
+cd config/
+ls
+docker ps
+docker cp nginx.conf 68fd7769613b:/etc/nginx/conf.d/default.conf
+docker cp nginx.conf 68fd7769613b:/etc/nginx/conf.d/default.conf
+docker cp nginx.conf 68fd7769613b:/etc/nginx/conf.d/default.conf
+docker cp nginx.conf 68fd7769613b:/etc/nginx/conf.d/default.conf
+docker cp nginx.conf 68fd7769613b:/etc/nginx/conf.d/default.conf
+docker cp nginx.conf 68fd7769613b:/etc/nginx/conf.d/default.conf
+docker cp nginx.conf 68fd7769613b:/etc/nginx/conf.d/default.conf
+docker cp nginx.conf 68fd7769613b:/etc/nginx/conf.d/default.conf
+docker cp nginx.conf 68fd7769613b:/etc/nginx/conf.d/default.conf
+docker cp docker-nginx.conf 68fd7769613b:/etc/nginx/conf.d/default.conf
+docker ps
+docker ps
+docker ops
+docker ps
+docker exec -it 68fd7769613b bash
+docker ligin --usernamne=ryan-olejnik --email=ryan.olejnik@gmail.com
+docker login --usernamne=ryan-olejnik --email=ryan.olejnik@gmail.com
+docker login --username=ryan-olejnik --email=ryan.olejnik@gmail.com
+docker login --username=ryan-olejnik
+docker login --username=ryan-olejnik
+docker login --username=ryan-olejnik
+docker login --username=ryan.olejnik@gmail.com
+docker 
+docker ps
+cd ezra/ohif-viewer/
+npm start
+history
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-plexo.ezra.com\
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-plexo.ezra.com
+node
+node
+node
+cd ezra/plexo-dockerized/
+docker-compose up
+docker-compose down
+history
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-plexo.ezra.com
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-plexo.ezra.com
+docker
+cd ..
+mkdir dockerized container
+ls
+rm -r dockerized/ container/
+ls
+mkdir dockerized-plexo
+cd dockerized-plexo/
+touch docker-compose.yaml
+mv docker-compose.yaml docker-compose.yml 
+touch Dockerfile
+ls
+docker-compose up
+docker-compose up
+docker ps
+docker ps -a
+ls
+docker-compose up
+docker-compose up
+docker-compose up
+docker-compose up
+docker-compose up
+docker-compose up
+docker-compose up
+docker-compose up --build
+docker-compose up
+docker-compose up
+docker-compose up --build
+docker-compose up --build
+npm start
+cd ..
+ls
+cd plexo/
+docker-compose up --build
+docker ps
+docker-compose up
+docker-compose up --build
+docker-compose up
+docker-compose up --build
+npm run copy:webworkers
+npm run copy:webworkers
+docker-compose up --build
+docker-compose up --build
+docker-compose up --build
+docker-compose up
+serve
+npm run build
+http-server
+cd pub/
+http-server
+cd ..
+http-server --help
+http-server /pub
+http-server -p 8080 /pub
+docker-compose up
+docker-compose up
+docker-compose up --build
+docker-compose down
+docker-compose up
+docker-compose doewn
+docker-compose down
+ls
+docker ps
+docker ps -a
+docker kill 0049958d577b
+docker images
+docker system prune
+docker-compose up
+docker-comnpose down
+docker-compose down
+docker-compose down
+docker system prune
+docker images
+docker rmi 0ceb28cce223
+docker rmi 8de9a5c521ea
+docker rmi 83e1fc97389a
+docker-compose up
+docker-compose up --build
+docker-compose up --build
+docker-compose down
+docker-compose up --build
+docker-compose down
+docker-compose up --build
+docker-compose down
+docker-compose up --build
+docker-compose down
+docker-compose up --build
+docker-compose down
+docker-compose down
+docker-compose up --build
+docker-compose down
+docker-compose up --build
+docker-compose up
+docker-compose down
+docker-compose up
+ls
+docker-compose down
+docker-compose up
+docker-compose down
+docker-compose up --build
+docker-compose up --build --remove-orphans
+docker-compose down
+docker-compose down
+docker system prune
+docker-compose up --build
+docker-compose down
+docker system prune
+docker ps -a
+docker images
+docker rmi 19b3fa507b4c
+docker images
+docker-compose up
+docker-compose up
+docker-compose down
+git cehckout dockerized
+git checkout dockerized
+docker-compose down
+git checkout master
+npm start
+git checkout dickerized
+git checkout dockerized
+npm start
+git checkout master
+git stash apply
+npm start
+ls
+cd protocol/
+python3 KL-Divergence.py 
+python KL-Divergence.py 
+pip install pydicom
+pip install pydicom
+sudo pip install pydicom
+python KL-Divergence.py 
+sudo pip install SimpleITK
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+git pull
+git log
+cd protocol/
+ls
+pythons KL-Divergence.py 
+python3 KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+git pull
+gut stash
+git stash
+git pull
+git stash apply
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python3 KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+git stash
+git pull
+git stash apply
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+git diff origin/master
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+git push
+git push
+python KL-Divergence.py 
+python KL-Divergence.py 
+git pull
+git stash
+git pull
+git stash apply
+git status
+git getch
+git fetch
+git diff origin/master
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+git push
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 
+python KL-Divergence.py 

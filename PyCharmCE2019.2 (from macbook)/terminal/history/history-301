@@ -1,0 +1,500 @@
+pwd
+cat shared.xml 
+open
+open .
+pwd
+cat shared.xml 
+cd
+cd .kettle/
+ls
+cat shared.xml
+cd ..
+cp .kettle/shared.xml ezra/raven_pentaho/shared.xml 
+cat ezra/raven_pentaho/shared.xml 
+cd ezra/
+cd pent
+cd raven_pentaho/
+pwd
+more shared.xml
+more shared.xml
+echo $KETTLE_HOME
+pwd
+cd /Applications/Pentaho-8.3.0.0-371/
+cd plugins/
+ls
+cd
+cd ezra/raven_pentaho/
+pwd
+ls
+ls -a
+cd
+ls
+ls -a
+cp --help
+cp -r .kettle/ ezra/raven_pentaho/.kettle
+ls
+rn .kettle/ .kettle-old
+mv .kettle/ .kettle-old
+ls -a
+cd ezra/raven_pentaho/
+;s
+ls
+ls -a
+git diff
+pwd
+ls -a
+cd .kettle/
+;s
+ls
+cd environment/
+;s
+ls
+cd ..
+ls
+ls
+cd ..
+l
+ls
+cd .kettle/
+ls
+cd
+cd .kettle
+ls
+ls
+cd environment/
+ls
+cd metastore/
+ls
+cd pentaho/
+ls
+cd ../../..
+cd
+cd .ssh_copy/
+ls
+aws configure
+cd
+rm -r .ssh_copy/
+ls -a
+python3
+python3
+python3 
+vi .bash_profile 
+pwd
+/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/bin/java
+/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/bin
+/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk
+cd /Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk
+ls
+cd Contents/
+ls
+cd ..
+cd MacOS
+ls
+cd COn
+cd Contents/
+ls
+cd MacOS/
+ls
+ls -a
+ls -lah
+cd ..
+cd ..
+;s
+cd ..
+ls
+ls
+cd jdk1.7.0_80.jdk/
+ls
+cd ..
+ls
+cd jdk1.8.0_231.jdk/
+ls
+cd ..
+which java
+cd /usr
+ls
+cd ..
+cd
+which java
+cd .kettle-old/
+ls
+cd environment/
+;s
+ls
+cd metastore/
+ls
+cd ../..
+ls
+cd ..
+mv .kettle_old .kettle
+ls -a
+open .
+cd ezra/raven_pentaho/
+pwd
+ls
+ls
+ls -a
+ls -lah
+cd .kettle/
+ls
+ls
+cd ..
+git log
+ls
+rm Raven.ktr 
+ls
+rm new_job.kjb 
+ls
+ls
+cd shared.xml
+cat shared.xml
+ls
+rm shared.xml
+rm shared.xml.backup 
+ls
+ls
+git log
+cd .ssh
+ls
+cd
+cd .ssh/
+ls
+cat id_rsa
+ls 
+cd ..
+cp .ssh/ .ssh_copy
+cp -r .ssh/ .ssh_copy
+;s
+ls
+ls -a
+ssh-keygen -t rsa -m PEM
+cd .ssh
+cat id_rsa
+cat id_rsa.pub 
+cd
+cd ezra/raven_pentaho/
+ls
+git pull
+git push
+ls
+git stash
+git status
+cd
+cd ezra/
+git clone git@github.com:ezraai/ice_manager.git
+cd
+ls -a
+python3
+aws configure
+aws s3 ls
+aws s3 ls
+cd .aws/
+cat credentials 
+checkout uat
+git checkout uat
+git pull
+git push
+git checkout master
+git pull
+git log
+git pull
+git checkout uat
+git pull
+git cherry-pick 78116aec053187eef6f352bfa03d9dd03d8c19d4
+git status
+git reset --hard
+git cherry-pick 78116aec053187eef6f352bfa03d9dd03d8c19d4
+git log
+git push
+git checkout master
+git reset --hard
+cd ezra/ice_manager/
+git status
+git status
+git status
+git status
+git commit -m "Setup react front-end"
+git push
+cd
+cd tutorials/
+git clone git@github.com:ryan-olejnik/react-bare-bones-starter.git
+cd react-bare-bones-starter/
+git status
+touch .gitignore
+vi .gitignore 
+git status
+vi .gitignore 
+git commit -m "Setup react project"
+git commit -am "Setup react project"
+git add .
+git commit -am "Setup react project"
+git push
+python3
+pip3 install fastjsonschema
+python3
+cd back_end/
+python3 runserver.py 
+python3 runserver.py 
+cd ezra/ice_manager/back_end/
+python3 runserver.py 
+python
+python3
+docker run --link some_database:db -p 8080:8080 adminer
+docker run --link some_database:db -p 8080:8080 adminer
+docker prune
+docker system prune
+docker run --link some_database:db -p 8080:8080 adminer
+python3
+npm install semantic-ui-react
+git log
+git status
+git status
+git status
+npm install axios
+git log
+cd ezra/ice_manager
+git log
+git push
+git push --mirror git@github.com:ezraai/ice_manager_frontend.git
+git push --mirror git@github.com:ezraai/ice_manager_backend.git
+cd ..
+cd ezra/
+git clone git@github.com:ezraai/ice_manager_frontend.git
+cd ice_manager_frontend/
+ls
+git pull
+git log
+cd ..
+cd ice_manager_back
+git clone git@github.com:ezraai/ice_manager_backend.git
+cd ice_manager_backend/
+git log
+ls
+cd ..
+cd ice_manager_frontend/
+ls
+git push
+python3 -m runserver.py 
+python3 runserver.py 
+python3 runserver.py 
+git push
+python3 runserver.py 
+python3 runserver.py 
+python3 runserver.py 
+python3 runserver.py 
+python3 runserver.py 
+python3 runserver.py 
+exit
+curl https://get-ghcup.haskell.org -sSf | sh
+cd tutorials/
+mkdir haskell
+cd haskell/
+ghci
+ghci
+ghci-8.6.5
+cd tutorials/haskell/
+vi haskell-tut.hs 
+ghci
+cd tutorials/haskell/
+touch haskell-tut.hs
+ghci
+cd tutorials/haskell/
+vi haskell-tut.hs 
+cd tutorials/haskell/
+ghpi
+ghci
+python3
+node
+cd ezra/
+ls
+cd rm -r raven_pentaho
+cd rm -r raven_pentaho/
+ls
+rm -r raven_pentaho/
+ls
+ls
+sudo rm -r raven_pentaho/
+ls
+cd
+cd ezra/
+ls
+cd
+cd /
+ls
+cd
+cd /
+mkdir Warehouse
+sduo mkdir Warehouse
+sudo mkdir Warehouse
+cd Warehouse/
+mkdir raven_pentaho
+pwd
+cd ..
+ls -lah
+cd
+cd ?
+cd /
+mkdir hehe
+sudo chown -R `whoami` /Warehouse
+ls -lah
+`whoami`
+cd
+htop
+python3
+ssh -i ~/.ssh/ryans-pc.pem ubuntu@dev-plexo.ezra.com
+python3
+node
+node
+cd ezra/ice_manager_backend/
+cd ..
+ls
+sudo rm -r ice_manager
+cd ice_manager_backend/
+git push
+cd ezra/
+git clone git@github.com:ezraai/ai.git
+cd ez
+ls
+cd read_dicom_files/
+ls
+cd
+ls -a
+vi .bash_profile 
+cd ezra/ice_manager/
+cd back_end/
+python3 runserver.py 
+cd
+vi .bash_profile 
+vi .bash_profile 
+cd ezra/ice_manager/
+cd front_end/
+npm init -y  -- creates package.json file with default configurations
+ls
+ls
+ls -a
+npm init -y
+npm install react react-dom  -- install react and react-dom dependencies
+vim .gitignore
+mkdir app
+cd app/
+touch index.js
+touch index.css
+npm install --save-dev @babel/core @babel/preset-env @babel/preset-react webpack webpack-cli webpack-dev-server babel-loader css-loader style-loader html-webpack-plugin
+touch webpack.js
+npm start
+npm start
+npm start
+npm start
+cd
+cd ezra/
+ls
+cd ice_manager/
+cd front_end/
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+cd ..
+cd ..
+cd ice_manager_frontend/
+npm install
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+node -v
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm install --save-dev @babel/plugin-proposal-class-properties
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm install
+npm install
+npm start
+npm start
+npm install --save-dev @babel/plugin-proposal-object-rest-spread
+npm start
+npm start
+npm start
+npm start
+npm install --save-dev babel-preset-stage-0
+npm start
+npm start
+npm start
+npm install
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+python3
+python3
+node
+cd ezra/ice_manager_
+cd ezra/ice_manager_backend/
+python3 api/scripts/push_jobs_to_queue.py 
+python3 api/scripts/push_jobs_to_queue.py 
+python3 api/scripts/push_jobs_to_queue.py 
+python3 api/scripts/push_jobs_to_queue.py 
+python3 api/scripts/push_jobs_to_queue.py 
+python3 api/scripts/push_jobs_to_queue.py 
+python3 api/scripts/push_jobs_to_queue.py 
+python3 api/scripts/push_jobs_to_queue.py 
+python3 api/scripts/push_jobs_to_queue.py 
+python3 api/scripts/push_jobs_to_queue.py 
+python3 api/scripts/push_jobs_to_queue.py
+python3 runserver.py server
+python3 runserver.py seed
+python3 runserver.py seed
+python3 runserver.py polling_service
+python3 runserver.py polling_service server
+python3 runserver.py polling_service server
+python3 runserver.py polling_service server
+python3 runserver.py polling_service server
+python3 runserver.py seed
+python3 runserver.py polling_service server
+python3 runserver.py seed
+python3 runserver.py polling_service server
+python3 runserver.py seed
+python3 runserver.py polling_service server
+python3 runserver.py polling_service server
+python3 runserver.py seed
+python3 runserver.py polling_service server
+python3 runserver.py seed
+python3 runserver.py polling_service server
+python3 runserver.py server
+git push
+source ~/.bash_profile 
+python3 runserver.py server polling_service
+python3 run_server.py server polling_service
+python3 run_server.py seed
+python3 run_server.py server polling_service

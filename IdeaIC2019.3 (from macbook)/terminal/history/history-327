@@ -1,0 +1,126 @@
+cd /Warehouse/raven_pentaho/
+git log
+git push
+git diff
+git status
+git reset --hard remote/master
+git fetch origin
+git reset --hard origin/master
+git log
+git diff
+git log
+git push
+git log
+git push
+node
+cd
+cd tutorials/spring
+cd tutorials/springbootexample/
+git init
+git add .
+git status
+git commit -m "Created first endpoint: POST /person"
+git log
+git status
+clear
+git remote
+git remote add origin git@github.com:ryan-olejnik/spring-boot-tutorial.git
+git push
+git push --set-upstream origin master
+git remote add origin git@github.com:ryan-olejnik/spring-boot-rest-API.git
+git remote remove origin
+git remote add origin git@github.com:ryan-olejnik/spring-boot-rest-API.git
+git push
+git push --set-upstream origin master
+git status
+git add .
+git commit -m "Added additional fields to Person class"
+git push
+/Applications/Pentaho9.0.0/Data\ Integration.app/Contents/MacOS/JavaApplicationStub ; exit;
+cd /Warehouse/raven_pentaho/
+git fetch
+git status
+git diff
+git reset --hard
+git pull
+git log
+git status
+git fetch
+git status
+git push
+/Applications/Pentaho9.0.0/Data\ Integration.app/Contents/MacOS/JavaApplicationStub ; exit;
+/Applications/Pentaho9.0.0/Data\ Integration.app/Contents/MacOS/JavaApplicationStub ; exit;
+cd /Warehouse/raven_pentaho/
+git status
+git log
+git status
+git fetch
+git log
+git push
+cd /Warehouse/raven_pentaho/
+git push
+node
+/Applications/Pentaho9.0.0/Data\ Integration.app/Contents/MacOS/JavaApplicationStub ; exit;
+node
+/Applications/Pentaho9.0.0/Data\ Integration.app/Contents/MacOS/JavaApplicationStub ; exit;
+/Applications/Pentaho9.0.0/Data\ Integration.app/Contents/MacOS/JavaApplicationStub ; exit;
+/Applications/Pentaho9.0.0/Data\ Integration.app/Contents/MacOS/JavaApplicationStub ; exit;
+cd Downloads/
+cat client_id.json 
+pwd
+cat /Users/ryanolejnik/Downloads/client_secret.json
+cat client_secret_687098244745-2jkig7a9np2qbm8g7lvl2reqgaghon8h.apps.googleusercontent.com.json 
+cd
+cd /Warehouse/raven_pentaho/
+git push
+git status
+cd
+cd Downloads/
+ls
+cat client_secret_687098244745-2jkig7a9np2qbm8g7lvl2reqgaghon8h.apps.googleusercontent.com.json 
+cat airtable-migration-e47a58ab3b4e.json
+pwd
+cat airtable-migration-e47a58ab3b4e.json
+cd /Warehouse/raven_pentaho/
+git status
+git log
+git status
+git push
+git status
+git status
+git push
+/Applications/Pentaho9.0.0/Data\ Integration.app/Contents/MacOS/JavaApplicationStub ; exit;
+node -version
+node -v
+node
+clear
+cd tutorials/
+git clone https://github.com/plaid/quickstart.git
+cd quickstart/
+npm install
+cd node
+npm install
+node index.js 
+PLAID_CLIENT_ID='CLIENT_ID' PLAID_SECRET='SECRET' PLAID_PUBLIC_KEY='PUBLIC_KEY' PLAID_ENV='sandbox' PLAID_PRODUCTS='transactions' PLAID_COUNTRY_CODES='GB,FR,ES,IE,NL' PLAID_OAUTH_REDIRECT_URI='http://localhost:8000/oauth-response.html' PLAID_OAUTH_NONCE='nice-and-long-nonce' node index.js
+APP_PORT=8000 PLAID_CLIENT_ID=5e90c5526c40c40013ed1613 PLAID_SECRET=b094e2cb34532fa72ba83ce446b67d PLAID_PUBLIC_KEY=3786d51333851fa8df275b7630dc3a PLAID_PRODUCTS=transactions PLAID_COUNTRY_CODES=US,CA,GB,FR,ES,IE,NL PLAID_ENV=sandbox node index.js
+APP_PORT=8000 PLAID_CLIENT_ID=5e90c5526c40c40013ed1613 PLAID_SECRET=b094e2cb34532fa72ba83ce446b67d PLAID_PUBLIC_KEY=3786d51333851fa8df275b7630dc3a PLAID_PRODUCTS=transactions PLAID_COUNTRY_CODES=US,CA,GB,FR,ES,IE,NL PLAID_ENV=sandbox node index.js
+mysql
+mysql root@localhost:3306 -P 
+mysql root@localhost:3306
+mysql root@localhost:3306 -P pass
+mysql root@localhost:3306 -P password
+mysql root@localhost:3306 -password password
+mysql root@localhost:3306 --password password
+mysql root@localhost:3306 --password=password
+mysql root@localhost:3306 --password
+mysql localhost:3306 --user root --password
+mysql localhost:3306/ice --user root --password
+mysql jdbc:mysql://localhost:3306/?user=root --password
+sudo mysql jdbc:mysql://localhost:3306/?user=root --password
+sudo mysql mysql://localhost:3306/?user=root --password
+clear
+mysql
+mysql --host=localhost --user=root --password=password
+node
+git push
+git reset --hard
